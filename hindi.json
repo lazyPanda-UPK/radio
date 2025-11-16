@@ -1,0 +1,3201 @@
+[
+  {
+    "channel_name": "Radio Mirchi",
+    "streaming_link": "https://strw3.openstream.co/1433?aw_0_1st.collectionid%3D4603%26stationId%3D4603%26publisherId%3D1457%26k%3D1759313782",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Mirchi.jpg"
+  },
+  {
+    "channel_name": "Mirchi 90’s Radio",
+    "streaming_link": "https://nl4.mystreaming.net/uber/bollywood1990s/icecast.audio",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Mirchi_90’s_Radio.jpg"
+  },
+  {
+    "channel_name": "Mirchi Love",
+    "streaming_link": "https://2.mystreaming.net/uber/lrbollywood/icecast.audio",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Mirchi_Love.jpg"
+  },
+  {
+    "channel_name": "Hindi Retro",
+    "streaming_link": "https://stream-145.zeno.fm/v2zfmxef798uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2MnpmbXhlZjc5OHV2IiwiaG9zdCI6InN0cmVhbS0xNDUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUnZVOEpScEhTQVdkU3Q0LTNOa1JzZyIsImlhdCI6MTc1OTMxMzgxNiwiZXhwIjoxNzU5MzEzODc2fQ.DTG_l0xTPRnmReA78P3on9kKsYuUE30v4BKBNQMUlqQ",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Hindi_Retro.jpg"
+  },
+  {
+    "channel_name": "Vividh Bharti",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Vividh_Bharti.jpg"
+  },
+  {
+    "channel_name": "FM Gold Delhi",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/FM_Gold_Delhi.jpg"
+  },
+  {
+    "channel_name": "Bhaktisudha",
+    "streaming_link": "https://n09.radiojar.com/cfqyfcspcv8uv?rj-ttl=5&rj-tok=AAABmZ9QHAUATGRRge6wNh9K3g",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Bhaktisudha.jpg"
+  },
+  {
+    "channel_name": "Big FM 106.2",
+    "streaming_link": "https://strw3.openstream.co/399?aw_0_1st.collectionid%3D6983%26stationId%3D6983%26publisherId%3D219%26k%3D1759313863",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Big_FM_106.2.jpg"
+  },
+  {
+    "channel_name": "All India Radio News 24X7",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8",
+    "category": "News",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_News_24X7.jpg"
+  },
+  {
+    "channel_name": "Kadak FM",
+    "streaming_link": "https://22343.live.streamtheworld.com/DUB_HIN_GSTAAC/HLS/playlist.m3u8",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Kadak_FM.jpg"
+  },
+  {
+    "channel_name": "FM Rainbow Delhi",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio047/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/FM_Rainbow_Delhi.jpg"
+  },
+  {
+    "channel_name": "Suno 1024",
+    "streaming_link": "https://eu8.fastcast4u.com/proxy/clyedupq/stream",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Suno_1024.jpg"
+  },
+  {
+    "channel_name": "ISHQ FM 104.8",
+    "streaming_link": "https://nl4.mystreaming.net/uber/lrbollywood/icecast.audio",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/ISHQ_FM_104.8.jpg"
+  },
+  {
+    "channel_name": "AIR Agra",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio059/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AIR_Agra.jpg"
+  },
+  {
+    "channel_name": "Radio Olive",
+    "streaming_link": "https://27753.live.streamtheworld.com/OLIVE1063.mp3",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Olive.jpg"
+  },
+  {
+    "channel_name": "Radio Badal",
+    "streaming_link": "https://str3.openstream.co/1717?aw_0_1st.collectionid%3D6654%26stationId%3D6654%26publisherId%3D1741%26k%3D1759313964",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Badal.jpg"
+  },
+  {
+    "channel_name": "Mirchi FM",
+    "streaming_link": "https://peridot.streamguys1.com:7150/MirchiFiji",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Mirchi_FM.jpg"
+  },
+  {
+    "channel_name": "Diverse FM",
+    "streaming_link": "https://carol.epichosts.co.uk:8570/;",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Diverse_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Antara",
+    "streaming_link": "https://stream-140.zeno.fm/fdgk7y2hr0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmZGdrN3kyaHIwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNDAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZTRTZjVxVVpSbWlsY1lBTWRKMTRUdyIsImlhdCI6MTc1OTMxNDAwMCwiZXhwIjoxNzU5MzE0MDYwfQ.PCTvOToUwrlbHB5Bjq-xwjmE_9f7ZT8UKMHbnnLQGmI",
+    "category": "News",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Antara.jpg"
+  },
+  {
+    "channel_name": "Radio Namkin",
+    "streaming_link": "https://stream-153.zeno.fm/yg1qhsbaqv5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5ZzFxaHNiYXF2NXR2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTk10eE4zWkVUM3lZR2h6WFIzU0xKUSIsImlhdCI6MTc1OTMxNDAxMSwiZXhwIjoxNzU5MzE0MDcxfQ.Ban2hGRDP2K8HN7b_tNKNe7BM5qsesshhd7pkKwLzMQ",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Namkin.jpg"
+  },
+  {
+    "channel_name": "Mirchi Top 20",
+    "streaming_link": "https://2.mystreaming.net/uber/bollywoodnow/icecast.audio",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Mirchi_Top_20.jpg"
+  },
+  {
+    "channel_name": "FM Rainbow Mumbai",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/FM_Rainbow_Mumbai.jpg"
+  },
+  {
+    "channel_name": "Oho Radio",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://mehramedia.com:9300/stream",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Oho_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio Olive Retro",
+    "streaming_link": "https://27143.live.streamtheworld.com/RADIO_OLIVE_RETRO_S03_SC",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Olive_Retro.jpg"
+  },
+  {
+    "channel_name": "Lyca Radio 1458 AM",
+    "streaming_link": "https://ads-direct.sharp-stream.com/1458.mp3",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Lyca_Radio_1458_AM.jpg"
+  },
+  {
+    "channel_name": "Vividh Bharati Delhi",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio238/hlspbaudio238_Auto.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Vividh_Bharati_Delhi.jpg"
+  },
+  {
+    "channel_name": "AIR Lucknow",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio046/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AIR_Lucknow.jpg"
+  },
+  {
+    "channel_name": "Vividh Bharti Mumbai",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Vividh_Bharti_Mumbai.jpg"
+  },
+  {
+    "channel_name": "Aajtak News Radio",
+    "streaming_link": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_180p/chunks.m3u8",
+    "category": "News",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Aajtak_News_Radio.jpg"
+  },
+  {
+    "channel_name": "Mera Sangeet USA",
+    "streaming_link": "https://18093.live.streamtheworld.com/MS_EAST_S01_SC",
+    "category": "International",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Mera_Sangeet_USA.jpg"
+  },
+  {
+    "channel_name": "FM Gold Mumbai",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/FM_Gold_Mumbai.jpg"
+  },
+  {
+    "channel_name": "Radio Mann 90.8 FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://165.22.208.252:8020/radio.mp3",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Mann_90.8_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Varsha 90.8 FM",
+    "streaming_link": "https://sp14.instainternet.com/8252/stream",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Varsha_90.8_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Aashiqanaa",
+    "streaming_link": "https://sp14.instainternet.com/8254/stream",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Aashiqanaa.jpg"
+  },
+  {
+    "channel_name": "Radio Nashaa FM",
+    "streaming_link": "https://stream-165.zeno.fm/rqqps6cbe3quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJycXFwczZjYmUzcXV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRGdvWGVNWmZTRG1zS3Fva01udUtIUSIsImlhdCI6MTc1OTMxNDE4MiwiZXhwIjoxNzU5MzE0MjQyfQ.iZnjXS_tMKWEvm0d5wleiU7PeiPyrzkNmlcUtzKGrsc",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Nashaa_FM.jpg"
+  },
+  {
+    "channel_name": "Bolly 102.9 FM",
+    "streaming_link": "https://ice6.securenetsystems.net/INTRADIO?type=.mp3",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Bolly_102.9_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Active 90.4 FM",
+    "streaming_link": "https://stream-157.zeno.fm/xwhhyc5nyk8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4d2hoeWM1bnlrOHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib2poX3B4QjZRR1d4R2ZyLUptTGczdyIsImlhdCI6MTc1OTMxNDIwNiwiZXhwIjoxNzU5MzE0MjY2fQ.pqNxDO6gq-3K_nA9TMhdZzb1bln399EF6x0zq_ZsyE4",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Active_90.4_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Sports Flashes",
+    "streaming_link": "https://s3.voscast.com:11173/1",
+    "category": "News",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Sports_Flashes.jpg"
+  },
+  {
+    "channel_name": "AIR Patna",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio087/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AIR_Patna.jpg"
+  },
+  {
+    "channel_name": "FM 24 90.8 FM",
+    "streaming_link": "https://dz1aqwz3bmbil.cloudfront.net/mgmradio.m3u8",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/FM_24_90.8_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Retro Bollywood",
+    "streaming_link": "https://stream-147.zeno.fm/v2zfmxef798uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2MnpmbXhlZjc5OHV2IiwiaG9zdCI6InN0cmVhbS0xNDcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNzdKWV96NGhTd3FpWE9LRnQxZlpuZyIsImlhdCI6MTc1OTMxNDI3NSwiZXhwIjoxNzU5MzE0MzM1fQ.yTVnD3a94fudmknWkh0WhmMGGdpRGzCQrPTIIDeoRd8",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Retro_Bollywood.jpg"
+  },
+  {
+    "channel_name": "Spice Radio 1200 AM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://134.209.0.236:8000/CJRJ",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Spice_Radio_1200_AM.jpg"
+  },
+  {
+    "channel_name": "Easy 96 Radio",
+    "streaming_link": "https://ice8.securenetsystems.net/EASY96",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Easy_96_Radio.jpg"
+  },
+  {
+    "channel_name": "Bombay Beats Radio",
+    "streaming_link": "https://strmreg.1.fm/bombaybeats_mobile_mp3",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Bombay_Beats_Radio.jpg"
+  },
+  {
+    "channel_name": "KTR Radio 93.2 FM",
+    "streaming_link": "https://stream-177.zeno.fm/27d11qgm2p8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyN2QxMXFnbTJwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiU0YwdUVTTFdTazJiVTI1WElOazZFUSIsImlhdCI6MTc1OTMxNDMyNywiZXhwIjoxNzU5MzE0Mzg3fQ.n3C8gswMd8UwFYTHWDJp-Tu3jZAfuYGiyydePuakNC0",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/KTR_Radio_93.2_FM.jpg"
+  },
+  {
+    "channel_name": "Radio SD 90.8 FM",
+    "streaming_link": "https://uk2.internet-radio.com/proxy/radiosdapp?mp=/stream",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_SD_90.8_FM.jpg"
+  },
+  {
+    "channel_name": "Best of Ghazals",
+    "streaming_link": "https://stream-162.zeno.fm/yo0kzyzedittv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bzBrenl6ZWRpdHR2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT3V2MVgzTTFSdjJjOTZHTmg3czN1QSIsImlhdCI6MTc1OTMxNDM1MCwiZXhwIjoxNzU5MzE0NDEwfQ.O560lPVgh64BWuICVVoXK2keL-GkZEq_A219GCdUU-s",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Best_of_Ghazals.jpg"
+  },
+  {
+    "channel_name": "Radio Pragya 90.4 MHZ",
+    "streaming_link": "https://stream-177.zeno.fm/g42tzhe29f8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnNDJ0emhlMjlmOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX1B5V3lxXzhSN1dtUDBTeG9kUWlvZyIsImlhdCI6MTc1OTMxNDM2MSwiZXhwIjoxNzU5MzE0NDIxfQ.G2JKaaX2cLW8rXpTJWETNverpOVMaaBQDBHgdM8Jlbk",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Pragya_90.4_MHZ.jpg"
+  },
+  {
+    "channel_name": "Filmy Mirchi",
+    "streaming_link": "https://streaming.webhostnepal.com/8020/stream",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Filmy_Mirchi.jpg"
+  },
+  {
+    "channel_name": "Bhajans Radio Guyana",
+    "streaming_link": "https://s5.citrus3.com:8148/stream",
+    "category": "International",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Bhajans_Radio_Guyana.jpg"
+  },
+  {
+    "channel_name": "Humm FM",
+    "streaming_link": "https://mediaworks.streamguys1.com/humm_net/playlist.m3u8",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Humm_FM.jpg"
+  },
+  {
+    "channel_name": "Gurgaon Ki Awaaz",
+    "streaming_link": "https://gurgaonradio.out.airtime.pro/gurgaonradio_a",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Gurgaon_Ki_Awaaz.jpg"
+  },
+  {
+    "channel_name": "Taal FM",
+    "streaming_link": "https://radio.mbconline.xyz/hls/tallfm.m3u8",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Taal_FM.jpg"
+  },
+  {
+    "channel_name": "Rangeela Radio",
+    "streaming_link": "https://rangeelaradio.radioca.st/;",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Rangeela_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio Risarch 90.8 FM",
+    "streaming_link": "https://stream-179.zeno.fm/uzq9fznb368uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1enE5ZnpuYjM2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWXJTdnpYaWJTQ1NuY2prZE04WFJhZyIsImlhdCI6MTc1OTMxNDQ1NiwiZXhwIjoxNzU5MzE0NTE2fQ.sFmWeVeauj1krY_gzfMCXXlRrQExKjrm00VizgaR84k",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Risarch_90.8_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Mirchi USA",
+    "streaming_link": "https://streams.radio.co/s8d06d0298/listen",
+    "category": "International",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Mirchi_USA.jpg"
+  },
+  {
+    "channel_name": "Radio Naggar",
+    "streaming_link": "https://s3.voscast.com:11195/stream",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Naggar.jpg"
+  },
+  {
+    "channel_name": "Non Stop Hindi Radio",
+    "streaming_link": "https://s5.voscast.com:8217/stream",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Non_Stop_Hindi_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio Tarana",
+    "streaming_link": "https://peridot.streamguys1.com:7150/Tarana.aac",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Tarana.jpg"
+  },
+  {
+    "channel_name": "Instrumental Music Radio",
+    "streaming_link": "https://azuracast.vibesounds.in:8030/radio.mp3",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Instrumental_Music_Radio.jpg"
+  },
+  {
+    "channel_name": "BBC Asian Network",
+    "streaming_link": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_asian_network.m3u8",
+    "category": "International",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/BBC_Asian_Network.jpg"
+  },
+  {
+    "channel_name": "Radio Selfie 90.8 FM",
+    "streaming_link": "https://c6.radioboss.fm:8340/stream",
+    "category": "News",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Selfie_90.8_FM.jpg"
+  },
+  {
+    "channel_name": "My Radio DJ",
+    "streaming_link": "https://stream-155.zeno.fm/84h97t3ewg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4NGg5N3QzZXdnMHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRFpQTVVZaUJRV0dMZWdDZ2R0M2tQdyIsImlhdCI6MTc1OTMxNDU4NCwiZXhwIjoxNzU5MzE0NjQ0fQ.r-SAkUP4nSvz9p2_2VfALp6WaoBDluz-EegskUXwzc8",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/My_Radio_DJ.jpg"
+  },
+  {
+    "channel_name": "Jaipur Radio",
+    "streaming_link": "https://d2jb21f28vbv8v.cloudfront.net/jaipurradio.m3u8",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Jaipur_Radio.jpg"
+  },
+  {
+    "channel_name": "Hindi Classic Radio",
+    "streaming_link": "https://streaming.webhostnepal.com/8012/stream",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Hindi_Classic_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio Hindi",
+    "streaming_link": "https://streamer.radio.co/se30891e37/low",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Hindi.jpg"
+  },
+  {
+    "channel_name": "Radio Rang",
+    "streaming_link": "https://stream-158.zeno.fm/n58tt09cqchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNTh0dDA5Y3FjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiY3ItUTB5cjdTQktGRUsydk1oNEFFdyIsImlhdCI6MTc1OTMxNDY4NSwiZXhwIjoxNzU5MzE0NzQ1fQ.ltnjamy2R4RPQnvdkMWEm8eBPyeKjpPIVjJXxphfJ5U",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Rang.jpg"
+  },
+  {
+    "channel_name": "Old Monk Radio",
+    "streaming_link": "https://stream-172.zeno.fm/pr0zc64zdy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwcjB6YzY0emR5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiejRGVEt2ckFTYXlLbzFxUU5wMEJzdyIsImlhdCI6MTc1OTMxNDY5NiwiZXhwIjoxNzU5MzE0NzU2fQ.rJBEppEQy8qvcYCLHLaxVMIr_Iy3ymyqAZvOCx_uS1k",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Old_Monk_Radio.jpg"
+  },
+  {
+    "channel_name": "Hindi Gold Radio",
+    "streaming_link": "https://azuracast.vibesounds.in:8010/radio.mp3",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Hindi_Gold_Radio.jpg"
+  },
+  {
+    "channel_name": "BMZ Radio",
+    "streaming_link": "https://stream-179.zeno.fm/uy91e749fv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1eTkxZTc0OWZ2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV2JaVFVVM19RTU82RWtVU2ZBT3NDUSIsImlhdCI6MTc1OTMxNDcxOCwiZXhwIjoxNzU5MzE0Nzc4fQ.EvlMKuX8QKczKYN1SndOS994TD_cb5VBKGEyp-4emas",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/BMZ_Radio.jpg"
+  },
+  {
+    "channel_name": "NP 24 Radio",
+    "streaming_link": "https://stream-158.zeno.fm/8wk1s0pt008uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4d2sxczBwdDAwOHV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVGI5cm81cHJTa3kwVFdnMXNwYllNdyIsImlhdCI6MTc1OTMxNDcyOSwiZXhwIjoxNzU5MzE0Nzg5fQ.ELORabghEL7mLNaqa1_SPEbga590_yq1ztUY3kLzRAM",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/NP_24_Radio.jpg"
+  },
+  {
+    "channel_name": "Fusion Life Radio",
+    "streaming_link": "https://c28.radioboss.fm:18046/stream",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Fusion_Life_Radio.jpg"
+  },
+  {
+    "channel_name": "Classical Hindustani",
+    "streaming_link": "https://stream-178.zeno.fm/nxy4eaynvy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJueHk0ZWF5bnZ5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT1VZSzIxZTdTX3lhcjZTQk00MnRiZyIsImlhdCI6MTc1OTMxNTY1MCwiZXhwIjoxNzU5MzE1NzEwfQ.l_MyiC1H_MyNSR1DsZM9TM2wM5yG1zzScAjjvWMH5z4",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Classical_Hindustani.jpg"
+  },
+  {
+    "channel_name": "Radio bollybop FM",
+    "streaming_link": "https://s3.radio.co/s2f19d44d0/listen",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_bollybop_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Vrishti",
+    "streaming_link": "https://stream-179.zeno.fm/cmutr14w5qztv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjbXV0cjE0dzVxenR2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVjVOTGZfX2FTT2VkMm9xUW5KQll4USIsImlhdCI6MTc1OTMxNTY4NiwiZXhwIjoxNzU5MzE1NzQ2fQ.Uk7FK-tGmEB24Z7mlrflm-wlqQm_iZJnctQm0kDvqko",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Vrishti.jpg"
+  },
+  {
+    "channel_name": "Radio Dhaakad",
+    "streaming_link": "https://radiodhaakad.com:8000/live",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Dhaakad.jpg"
+  },
+  {
+    "channel_name": "Sangeet Samvaad",
+    "streaming_link": "https://n0f.radiojar.com/7mh06pa8uwzuv?rj-ttl=5&rj-tok=AAABmZ9sspQATq8f1Y33bvTChQ",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Sangeet_Samvaad.jpg"
+  },
+  {
+    "channel_name": "Fever FM",
+    "streaming_link": "https://radio.canstream.co.uk:8115/live.mp3",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Fever_FM.jpg"
+  },
+  {
+    "channel_name": "Agra Radio",
+    "streaming_link": "https://stream-162.zeno.fm/m1krtxpk11zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtMWtydHhwazExenV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQUE0LTZGSzRTYjYxcHcwaWdVaTNUdyIsImlhdCI6MTc1OTMxNTc0NywiZXhwIjoxNzU5MzE1ODA3fQ.w3l8WGZZEhXY1ZL-lcMDcvbssmVYKKXfFXOE3AzsjSI",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Agra_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio City Love Guru",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://69.162.124.24:8888/Ishq",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_City_Love_Guru.jpg"
+  },
+  {
+    "channel_name": "Radio Hulchul",
+    "streaming_link": "https://everestcast.live-streams.nl:18015/stream",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Hulchul.jpg"
+  },
+  {
+    "channel_name": "Radio Taj",
+    "streaming_link": "https://a9.asurahosting.com/listen/radio_taj/radio.mp3",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Taj.jpg"
+  },
+  {
+    "channel_name": "Radio Caravan",
+    "streaming_link": "https://stream-161.zeno.fm/8e9q38tg7zquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ZTlxMzh0Zzd6cXV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYXdiS0U5ZjRTSW1la3lQZ3hEN0MxdyIsImlhdCI6MTc1OTMxNTgxMCwiZXhwIjoxNzU5MzE1ODcwfQ.V1NBX9Iy6NDSY_li62U9n1Y2gMFPbpF70NeHDp7T-yc",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Caravan.jpg"
+  },
+  {
+    "channel_name": "Sangeet Radio",
+    "streaming_link": "https://ice8.securenetsystems.net/SGTRADIO",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Sangeet_Radio.jpg"
+  },
+  {
+    "channel_name": "Masala Radio",
+    "streaming_link": "https://s3.voscast.com:10201/stream.mp3",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Masala_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio 44",
+    "streaming_link": "https://main.smanelcast.com/radio/8030/radio.mp3",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_44.jpg"
+  },
+  {
+    "channel_name": "Radio Manpasand",
+    "streaming_link": "https://c5.radioboss.fm:18125/stream",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Manpasand.jpg"
+  },
+  {
+    "channel_name": "Abee Radio",
+    "streaming_link": "https://abee.radioca.st/stream",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Abee_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio SBS",
+    "streaming_link": "https://solid48.streamupsolutions.com/proxy/radiosbs/radiosbs",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_SBS.jpg"
+  },
+  {
+    "channel_name": "Mixify",
+    "streaming_link": "https://server.mixify.in/listen/listen/radio.mp3",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Mixify.jpg"
+  },
+  {
+    "channel_name": "Big FM International",
+    "streaming_link": "https://funasia.streamguys1.com/noads-live-1",
+    "category": "International",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Big_FM_International.jpg"
+  },
+  {
+    "channel_name": "Shuddh Desi Radio",
+    "streaming_link": "https://streamer.radio.co/se30891e37/listen",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Shuddh_Desi_Radio.jpg"
+  },
+  {
+    "channel_name": "East FM",
+    "streaming_link": "https://eastfm-atunwadigital.streamguys1.com/eastfm",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/East_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Rishikesh",
+    "streaming_link": "https://s4.voscast.com:9339/stream",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Rishikesh.jpg"
+  },
+  {
+    "channel_name": "Radio Chinar",
+    "streaming_link": "https://streamasiahlscdn.atc-labs.com/radiochinar.m3u8",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Chinar.jpg"
+  },
+  {
+    "channel_name": "Ujala Radio",
+    "streaming_link": "https://stream.ujala.nl/ujala",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Ujala_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio Omni 90 FM",
+    "streaming_link": "https://cast5.asurahosting.com/proxy/omni1/stream",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Omni_90_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Garam Masala",
+    "streaming_link": "https://broadcast.shoutcheap.com/proxy/radiogar/stream",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Garam_Masala.jpg"
+  },
+  {
+    "channel_name": "Radio Dil",
+    "streaming_link": "https://us3.streamingpulse.com/ssl/radiodil2",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Dil.jpg"
+  },
+  {
+    "channel_name": "Hum FM Radio",
+    "streaming_link": "https://ice10.securenetsystems.net/HUMFM?type=.mp3",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Hum_FM_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio Radhika Munger",
+    "streaming_link": "https://stream-177.zeno.fm/7ivlkteseuatv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3aXZsa3Rlc2V1YXR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiLUlZQ1ZwZXNRNDJuRlZaSmlRM1FDUSIsImlhdCI6MTc1OTMxNjE1MSwiZXhwIjoxNzU5MzE2MjExfQ.O0dxemjU3iY1P8rh9xGDKxEYROlO7HC9uv97FSuEcaM",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Radhika_Munger.jpg"
+  },
+  {
+    "channel_name": "Oye India Radio",
+    "streaming_link": "https://hbhamra4.radioca.st/stream.mp3",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Oye_India_Radio.jpg"
+  },
+  {
+    "channel_name": "Madhur Sangeet",
+    "streaming_link": "https://stream-163.zeno.fm/yv2k0dp18vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5djJrMGRwMTh2enV2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSS00Uk5JbUNUNnFuNzNjeGo4cTVKZyIsImlhdCI6MTc1OTMxNjE4OCwiZXhwIjoxNzU5MzE2MjQ4fQ.7FTjeGz_Pedzyk4Gs6BhNUmI-oUEoAUJwn3KhIGwOBQ",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Madhur_Sangeet.jpg"
+  },
+  {
+    "channel_name": "Best FM",
+    "streaming_link": "https://radio.mbconline.xyz/hls/bestfm.m3u8",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Best_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Umang",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://vmi352552.contaboserver.net/radio/8000/radio.mp3",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Umang.jpg"
+  },
+  {
+    "channel_name": "Radio Fiji Two",
+    "streaming_link": "https://peridot.streamguys1.com:7150/RFTwo",
+    "category": "International",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Fiji_Two.jpg"
+  },
+  {
+    "channel_name": "Hindi HD",
+    "streaming_link": "https://live.cmr24.net/CMR/Desi_Music-MQ/icecast.audio",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Hindi_HD.jpg"
+  },
+  {
+    "channel_name": "Radio Sangam",
+    "streaming_link": "https://streaming.radio.co/s58948a3f0/listen",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Sangam.jpg"
+  },
+  {
+    "channel_name": "Radio Sajawaat",
+    "streaming_link": "https://usa3.fastcast4u.com/proxy/radiosajawat?mp=/1",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Sajawaat.jpg"
+  },
+  {
+    "channel_name": "Spice FM",
+    "streaming_link": "https://spice988fm.radioca.st/stream",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Spice_FM.jpg"
+  },
+  {
+    "channel_name": "MixiFy – 24/7 Non-Stop New Hits",
+    "streaming_link": "https://server.mixify.in:8020/radio.mp3",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/MixiFy_–_24/7_Non-Stop_New_Hits.jpg"
+  },
+  {
+    "channel_name": "Radio Buzz",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://abm21.com.au:8000/CONTAINER116",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Buzz.jpg"
+  },
+  {
+    "channel_name": "Radio Dhwani",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://85.25.185.202:8148/stream",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Dhwani.jpg"
+  },
+  {
+    "channel_name": "DilSe Radio",
+    "streaming_link": "https://listen-lycaradio.sharp-stream.com/1035.mp3",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/DilSe_Radio.jpg"
+  },
+  {
+    "channel_name": "Namaste Bollywood",
+    "streaming_link": "https://stream-168.zeno.fm/cqak4ap7by8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjcWFrNGFwN2J5OHV2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR3NJdEhGMHVTZFdiaFJJWkd6TW80QSIsImlhdCI6MTc1OTMxNjM2MywiZXhwIjoxNzU5MzE2NDIzfQ.pfhn594rD9NxtxAYxwTrzSyRHzD1zETKLyjbI1qOIng",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Namaste_Bollywood.jpg"
+  },
+  {
+    "channel_name": "Gazal Radio London",
+    "streaming_link": "https://streaming.webhostnepal.com/8018/stream",
+    "category": "International",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Gazal_Radio_London.jpg"
+  },
+  {
+    "channel_name": "Connect FM 107.8",
+    "streaming_link": "https://c34.radioboss.fm:8716/live",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Connect_FM_107.8.jpg"
+  },
+  {
+    "channel_name": "Radio Central 24",
+    "streaming_link": "https://casper.radioca.st/stream",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Central_24.jpg"
+  },
+  {
+    "channel_name": "Sunrise Radio",
+    "streaming_link": "https://stream1.themediasite.co.uk/8070/stream",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Sunrise_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio Zindagi 1170 AM",
+    "streaming_link": "https://us9.maindigitalstream.com/ssl/RadioZindagi",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Zindagi_1170_AM.jpg"
+  },
+  {
+    "channel_name": "Radio 90.5 FM",
+    "streaming_link": "https://ice42.securenetsystems.net/CR90",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_90.5_FM.jpg"
+  },
+  {
+    "channel_name": "Sangeet 106.1 FM",
+    "streaming_link": "https://audio-edge-hy4wy.blr.d.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Sangeet_106.1_FM.jpg"
+  },
+  {
+    "channel_name": "Dil FM",
+    "streaming_link": "https://my4.radiolize.com/radio/8110/radio.mp3",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Dil_FM.jpg"
+  },
+  {
+    "channel_name": "Club Asia Radio",
+    "streaming_link": "https://s3.citrus3.com:8320/stream",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Club_Asia_Radio.jpg"
+  },
+  {
+    "channel_name": "Voice Of Kannauj",
+    "streaming_link": "https://sp14.instainternet.com/8242/stream",
+    "category": "News",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Voice_Of_Kannauj.jpg"
+  },
+  {
+    "channel_name": "Lenz FM",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://78.129.229.120:30676/;",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Lenz_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Azad",
+    "streaming_link": "https://usa2.fastcast4u.com/proxy/jgivvimk?mp=/1",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Azad.jpg"
+  },
+  {
+    "channel_name": "Radio Khushkhabri",
+    "streaming_link": "https://edge-audio-03-gos2.sharp-stream.com/khushkhabri.mp3",
+    "category": "Christian",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Khushkhabri.jpg"
+  },
+  {
+    "channel_name": "Radio Nagma",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://85.25.185.202:8591/stream",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Nagma.jpg"
+  },
+  {
+    "channel_name": "Urja FM",
+    "streaming_link": "https://urjafm.nexencloud.com:9999/UrjaFM",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Urja_FM.jpg"
+  },
+  {
+    "channel_name": "Tune India Radio",
+    "streaming_link": "https://s2.radio.co/se5e166e2f/listen",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Tune_India_Radio.jpg"
+  },
+  {
+    "channel_name": "West Indian Vibes Radio",
+    "streaming_link": "https://s6.citrus3.com:8396/stream",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/West_Indian_Vibes_Radio.jpg"
+  },
+  {
+    "channel_name": "Brisvaani Radio",
+    "streaming_link": "https://centova71.instainternet.com/proxy/brisvaaniradio?mp=/stream",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Brisvaani_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio Spice",
+    "streaming_link": "https://stream.lava.net.au/au_wa_878fm_radiospice",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Spice.jpg"
+  },
+  {
+    "channel_name": "Taj 92.3 FM",
+    "streaming_link": "https://ice66.securenetsystems.net/TAJ",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Taj_92.3_FM.jpg"
+  },
+  {
+    "channel_name": "Dance Asia Radio",
+    "streaming_link": "https://s1.citrus3.com:8124/stream",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Dance_Asia_Radio.jpg"
+  },
+  {
+    "channel_name": "Apna 990 AM",
+    "streaming_link": "https://23193.live.streamtheworld.com/NZME_236.mp3",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Apna_990_AM.jpg"
+  },
+  {
+    "channel_name": "Radio Afsana",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://107.182.234.197:7058/stream",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Afsana.jpg"
+  },
+  {
+    "channel_name": "Radio Dehotties",
+    "streaming_link": "https://s6.myradiostream.com/:15054/;",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Dehotties.jpg"
+  },
+  {
+    "channel_name": "Radio Bula Masti",
+    "streaming_link": "https://c7.radioboss.fm:18052/stream",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Bula_Masti.jpg"
+  },
+  {
+    "channel_name": "Radio Indradhanush",
+    "streaming_link": "https://a12.asurahosting.com/listen/radio_indradhanush/radio.mp3",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Indradhanush.jpg"
+  },
+  {
+    "channel_name": "Sitara FM",
+    "streaming_link": "https://server6.radio-streams.net:18048/stream",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Sitara_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Naya Andaz",
+    "streaming_link": "https://radionayaandaz.out.airtime.pro/radionayaandaz_a",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Naya_Andaz.jpg"
+  },
+  {
+    "channel_name": "Radio Olive Kids",
+    "streaming_link": "https://14983.live.streamtheworld.com/RADIO_OLIVE_CLUB_S04AAC.aac",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Olive_Kids.jpg"
+  },
+  {
+    "channel_name": "Box FM",
+    "streaming_link": "https://streamasiahlscdn.atc-labs.com/boxfm.m3u8",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Box_FM.jpg"
+  },
+  {
+    "channel_name": "Sabras Radio",
+    "streaming_link": "https://radio.canstream.co.uk:8025/live.mp3",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Sabras_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio XL",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://xlradio.co.uk:8000/;",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_XL.jpg"
+  },
+  {
+    "channel_name": "Geet Radio",
+    "streaming_link": "https://server.geetradio.com:8000/radio.mp3",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Geet_Radio.jpg"
+  },
+  {
+    "channel_name": "AKS Radio",
+    "streaming_link": "https://servidor40-3.brlogic.com:7232/live",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AKS_Radio.jpg"
+  },
+  {
+    "channel_name": "Asian Star Radio",
+    "streaming_link": "https://radio.canstream.co.uk:9067/live.mp3",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Asian_Star_Radio.jpg"
+  },
+  {
+    "channel_name": "Anbu FM Hindi",
+    "streaming_link": "https://stream-158.zeno.fm/u7yaqq493v8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1N3lhcXE0OTN2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiU19pcjlNekpSOFd5a3M4OHd5WC0yZyIsImlhdCI6MTc1OTMxNzAwNywiZXhwIjoxNzU5MzE3MDY3fQ.8OXzI92na_-ljy2G2Murr10wCy581-ZqUoxNXI2lmG4",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Anbu_FM_Hindi.jpg"
+  },
+  {
+    "channel_name": "Jhanjar Radio",
+    "streaming_link": "https://video1.getstreamhosting.com:8260/stream",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Jhanjar_Radio.jpg"
+  },
+  {
+    "channel_name": "Lotus FM",
+    "streaming_link": "https://28513.live.streamtheworld.com/LOTUSFMAAC.aac",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Lotus_FM.jpg"
+  },
+  {
+    "channel_name": "Wazaa FM",
+    "streaming_link": "https://listen.radioking.com/radio/660412/stream/724168",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Wazaa_FM.jpg"
+  },
+  {
+    "channel_name": "Awaz FM",
+    "streaming_link": "https://uksoutha.streaming.broadcast.radio/awazfm",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Awaz_FM.jpg"
+  },
+  {
+    "channel_name": "Hindvani FM",
+    "streaming_link": "https://edge.iono.fm/xice/129_medium.aac",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Hindvani_FM.jpg"
+  },
+  {
+    "channel_name": "QMR Asian",
+    "streaming_link": "https://funasia.streamguys1.com/live9",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/QMR_Asian.jpg"
+  },
+  {
+    "channel_name": "Roq Raw Radio",
+    "streaming_link": "https://mystation.micast.media/radio/8090/radio.mp3",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Roq_Raw_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio 4 Public Health",
+    "streaming_link": "https://cast4.my-control-panel.com/proxy/demo4usv/live",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_4_Public_Health.jpg"
+  },
+  {
+    "channel_name": "Radio Booze",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://cast6.my-control-panel.com:7644/stream",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Booze.jpg"
+  },
+  {
+    "channel_name": "AKS Radio Satna 90.4",
+    "streaming_link": "https://servidor40-3.brlogic.com:7232/live?source=website",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AKS_Radio_Satna_90.4.jpg"
+  },
+  {
+    "channel_name": "Bharat FM",
+    "streaming_link": "https://s2.radio.co/s44bb88930/listen",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Bharat_FM.jpg"
+  },
+  {
+    "channel_name": "Apna Radio Bikaner",
+    "streaming_link": "https://a7.asurahosting.com:7410/radio.mp3",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Apna_Radio_Bikaner.jpg"
+  },
+  {
+    "channel_name": "Radio Aaryan",
+    "streaming_link": "https://stream-174.zeno.fm/vk9arlo3matuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2azlhcmxvM21hdHV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUUtoNzBuNGNUektnVnNzQ3Y0UzJhZyIsImlhdCI6MTc1OTMxNzE5OSwiZXhwIjoxNzU5MzE3MjU5fQ.OUAh6JTmoD9F2Avp6448JS6ULThLCfjELhrsWNk3ncA",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Aaryan.jpg"
+  },
+  {
+    "channel_name": "Badal New Beats",
+    "streaming_link": "https://stream-179.zeno.fm/uzq9fznb368uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1enE5ZnpuYjM2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicVFmNHhoLWdTS3VRQ01VaXF5QTZJdyIsImlhdCI6MTc1OTMxNzIzNCwiZXhwIjoxNzU5MzE3Mjk0fQ.C9buXC67jMm0JwI81Muowt3MElmxkuwBxXHtUccFthw",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Badal_New_Beats.jpg"
+  },
+  {
+    "channel_name": "Radio Satrangi",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://85.25.185.202:9069/stream",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Satrangi.jpg"
+  },
+  {
+    "channel_name": "Radio Bimal",
+    "streaming_link": "https://stream-154.zeno.fm/bzbpxfjxmpmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiemJweGZqeG1wbXV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVVRtejlvOHRTYmV4d09yUTNuZERKdyIsImlhdCI6MTc1OTMxNzI2MSwiZXhwIjoxNzU5MzE3MzIxfQ.nYjbCUNYneTtgYAZ1oXjsmzJgh2QOE8FQa7cALGx13w",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Bimal.jpg"
+  },
+  {
+    "channel_name": "Radio Play Star",
+    "streaming_link": "https://stream-160.zeno.fm/q1lehvqz74xuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxMWxlaHZxejc0eHV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVWRTZ3gtWlZRVzZGUWI4TXpDUVJrdyIsImlhdCI6MTc1OTMxNzMxNywiZXhwIjoxNzU5MzE3Mzc3fQ.CkdRAybKN5iZuFl3Om6xNp7UPF8khQwQ4BEitWwKYp4",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Play_Star.jpg"
+  },
+  {
+    "channel_name": "Radio Shiva",
+    "streaming_link": "https://ssl.surfmusic.de/s.php?s=http://85.25.185.202:8771/stream",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Shiva.jpg"
+  },
+  {
+    "channel_name": "Madhur Awaz",
+    "streaming_link": "https://stream.madhurawaz.com/",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Madhur_Awaz.jpg"
+  },
+  {
+    "channel_name": "Sandesh Radio",
+    "streaming_link": "https://sandeshradio2017.radioca.st/stream",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Sandesh_Radio.jpg"
+  },
+  {
+    "channel_name": "Amor Fm",
+    "streaming_link": "https://amorfm_192.streampartner.nl/stream",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Amor_Fm.jpg"
+  },
+  {
+    "channel_name": "Arijit Singh Radio",
+    "streaming_link": "https://stream-160.zeno.fm/rfpf8qec94zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyZnBmOHFlYzk0enV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib25xYjFCUWNRQUc5NE1yWTRWMW9mUSIsImlhdCI6MTc1OTMyMzQ5MiwiZXhwIjoxNzU5MzIzNTUyfQ.7VDp4fiyCcffy3x7lSSsJlON-Jb-b5YLyAZ0rckmMXk",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Arijit_Singh_Radio.jpg"
+  },
+  {
+    "channel_name": "Non Stop Hindi FM",
+    "streaming_link": "https://sp14.instainternet.com/8114/stream",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Non_Stop_Hindi_FM.jpg"
+  },
+  {
+    "channel_name": "Shripad Hindi",
+    "streaming_link": "https://shripadradio.radioca.st/stream",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Shripad_Hindi.jpg"
+  },
+  {
+    "channel_name": "Bombay Beats",
+    "streaming_link": "https://strm112.1.fm/bombaybeats_mobile_mp3",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Bombay_Beats.jpg"
+  },
+  {
+    "channel_name": "City FM 101.6",
+    "streaming_link": "https://n08.radiojar.com/gmwyu8xdrxquv?rj-ttl=5&rj-tok=AAABmZ_lwEUAWfl6G6hg7rYgyQ",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/City_FM_101.6.jpg"
+  },
+  {
+    "channel_name": "City FM 92",
+    "streaming_link": "https://stream-155.zeno.fm/bauwkrnqhxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiYXV3a3JucWh4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYW94MWRfTUNSaXFHeGhoczlYUklyUSIsImlhdCI6MTc1OTMyMzY2OSwiZXhwIjoxNzU5MzIzNzI5fQ.2pTPYbCrsgq5FrF5wR3NgwPwRIxfpkLdwq_kH81fF_k",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/City_FM_92.jpg"
+  },
+  {
+    "channel_name": "Desi World",
+    "streaming_link": "https://stream-156.zeno.fm/4mbfcn4mf24tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0bWJmY240bWYyNHR2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiczlUekVmWWJSbHVkQXRsVEZQRXlNdyIsImlhdCI6MTc1OTMyMzY5MSwiZXhwIjoxNzU5MzIzNzUxfQ.RNfGTgfrYnc0aLMD4hSRE9ZDqqk2qZSuKUZ20SC3fxc",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Desi_World.jpg"
+  },
+  {
+    "channel_name": "FunAsiA 104.9",
+    "streaming_link": "https://funasia.streamguys1.com/live-1",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/FunAsiA_104.9.jpg"
+  },
+  {
+    "channel_name": "Hits Of Bollywood",
+    "streaming_link": "https://stream-169.zeno.fm/a2gyqzwpwfeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhMmd5cXp3cHdmZXV2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYzJCVmVvR25TWXFSdDk3Z2hDUmtMdyIsImlhdCI6MTc1OTMyMzc0OSwiZXhwIjoxNzU5MzIzODA5fQ.0iS5tjKGLcaWL0QjNK533zHEVjHQ7WH7EwoAOXjZZWU",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Hits_Of_Bollywood.jpg"
+  },
+  {
+    "channel_name": "Hungama Bollywood Retro",
+    "streaming_link": "https://stream-150.zeno.fm/g372rxef798uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnMzcycnhlZjc5OHV2IiwiaG9zdCI6InN0cmVhbS0xNTAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTG1WV216bThSdHFFUFExdEpXY1c3QSIsImlhdCI6MTc1OTMyMzc2MCwiZXhwIjoxNzU5MzIzODIwfQ.1OrR4lI7681GnjNUwTmjspJphKYhtpc77YPKVMaJ8F8",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Hungama_Bollywood_Retro.jpg"
+  },
+  {
+    "channel_name": "Indian Link",
+    "streaming_link": "https://indianlink1.radioca.st/;",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Indian_Link.jpg"
+  },
+  {
+    "channel_name": "Jaagriti FM",
+    "streaming_link": "https://stream-154.zeno.fm/4dycn4hmffhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZHljbjRobWZmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZ0ExVXdJcDFTc0dOWDU4WmNIVTNFdyIsImlhdCI6MTc1OTMyMzgxMiwiZXhwIjoxNzU5MzIzODcyfQ.Ye1NTyQ-Z9cqLh2AKgIq49QyI0BhpEqgM7mxTP5iDos",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Jaagriti_FM.jpg"
+  },
+  {
+    "channel_name": "Madhur Tarang",
+    "streaming_link": "https://stream-165.zeno.fm/v0gde6udfg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2MGdkZTZ1ZGZnOHV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieGw2bjN6RXpTTkNoczFYd1Foa1F5dyIsImlhdCI6MTc1OTMyMzg1MCwiZXhwIjoxNzU5MzIzOTEwfQ.CwvcLey0a83MzsWbSO_es_yffrWIRWfYQ1Apc5zJCss",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Madhur_Tarang.jpg"
+  },
+  {
+    "channel_name": "Radioazad FM",
+    "streaming_link": "https://stream.voxx.pro/radio/8260/radio.mp3",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radioazad_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Madhuban",
+    "streaming_link": "https://icecast.bkwsu.eu/radiomadhuban.mp3",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Madhuban.jpg"
+  },
+  {
+    "channel_name": "Radio Punjab",
+    "streaming_link": "https://stream-157.zeno.fm/c30rk1318s5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjMzByazEzMThzNXR2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX3F0RVZfYjlUTDZGNFo2cmZjX3BEdyIsImlhdCI6MTc1OTMyNDAyNiwiZXhwIjoxNzU5MzI0MDg2fQ.U2TJuNxcntc2WbEIuQtLKpsTbELmS9NBrr1Bhwtp1CY",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Punjab.jpg"
+  },
+  {
+    "channel_name": "Travel World Online",
+    "streaming_link": "https://radiomaska.out.airtime.pro:8000/radiomaska_a",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Travel_World_Online.jpg"
+  },
+  {
+    "channel_name": "Bolly 102.9",
+    "streaming_link": "https://nl4.mystreaming.net/er/bollywood/icecast.audio",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Bolly_102.9.jpg"
+  },
+  {
+    "channel_name": "Cina 1650",
+    "streaming_link": "https://ice8.securenetsystems.net/CINA",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Cina_1650.jpg"
+  },
+  {
+    "channel_name": "Win Radio",
+    "streaming_link": "https://stream.radio.co/s9f46a9bb1/listen",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Win_Radio.jpg"
+  },
+  {
+    "channel_name": "Aap Ki Aawaz",
+    "streaming_link": "https://stream-176.zeno.fm/spm0t8gq45quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzcG0wdDhncTQ1cXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieDhMb3pQd25SenVWNTA4R0JvLXJWUSIsImlhdCI6MTc1OTMyNDI4MiwiZXhwIjoxNzU5MzI0MzQyfQ.ejmrreKawCHDut9ZTFgiPvljlpIR36EDV24l7d3WYPM",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Aap_Ki_Aawaz.jpg"
+  },
+  {
+    "channel_name": "New Hits of Bollywood",
+    "streaming_link": "https://stream-166.zeno.fm/q9xkvxc2tfeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxOXhrdnhjMnRmZXV2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWjhuS1pBZTVUbFdSeDNkY1JSRGV6QSIsImlhdCI6MTc1OTMyNDI5MywiZXhwIjoxNzU5MzI0MzUzfQ.h9Yz1pkEROWFDjdVEGLTXoW06HT_j0clRKWIBenmvqI",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/New_Hits_of_Bollywood.jpg"
+  },
+  {
+    "channel_name": "2b Radio Love",
+    "streaming_link": "https://ibadat.out.airtime.pro:8000/ibadat_b",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/2b_Radio_Love.jpg"
+  },
+  {
+    "channel_name": "2B Radio Retro",
+    "streaming_link": "https://radio2bindia.out.airtime.pro:8000/radio2bindia_b",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/2B_Radio_Retro.jpg"
+  },
+  {
+    "channel_name": "Akash Radio Leeds",
+    "streaming_link": "https://c2.radioboss.fm:8276/stream",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akash_Radio_Leeds.jpg"
+  },
+  {
+    "channel_name": "EBC Radio 1170AM",
+    "streaming_link": "https://ice7.securenetsystems.net/WWTR",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/EBC_Radio_1170AM.jpg"
+  },
+  {
+    "channel_name": "Radio Cardikala",
+    "streaming_link": "https://stream-153.zeno.fm/65b1awrgnv5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2NWIxYXdyZ252NXR2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaFFmb3pGTXZTRmFTWUlaOVh2SXpMZyIsImlhdCI6MTc1OTMyNDM5OSwiZXhwIjoxNzU5MzI0NDU5fQ.aAe8YTjCsEb44N3TBHzehDo7FavMupUpi7Hp1anN9F8",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Cardikala.jpg"
+  },
+  {
+    "channel_name": "BolPunjabi Radio",
+    "streaming_link": "https://bolpunjabi-ekamsoftware.radioca.st/;stream.mp3",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/BolPunjabi_Radio.jpg"
+  },
+  {
+    "channel_name": "Puneri Awaz 107.8",
+    "streaming_link": "https://icecast.bkwsu.eu//radio-awaz-pune.mp3",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Puneri_Awaz_107.8.jpg"
+  },
+  {
+    "channel_name": "Radio Punjabi Virsa",
+    "streaming_link": "https://stream-154.zeno.fm/25h82wv629duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyNWg4Mnd2NjI5ZHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWWJEN1ZfNGNUd2VicnpsTWN0b1RhdyIsImlhdCI6MTc1OTMyNDQ4NCwiZXhwIjoxNzU5MzI0NTQ0fQ.9cd94ap_XlL-Ghwn964qt50PQbJC1dp3caWzKJT-Hq0",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Punjabi_Virsa.jpg"
+  },
+  {
+    "channel_name": "Hamdosana FM",
+    "streaming_link": "https://stream3.themediasite.co.uk:8242/stream",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Hamdosana_FM.jpg"
+  },
+  {
+    "channel_name": "Akhand Path Radio",
+    "streaming_link": "https://radio.sikhnet.com/proxy/channel5/live",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akhand_Path_Radio.jpg"
+  },
+  {
+    "channel_name": "Ganesh 2b Radio",
+    "streaming_link": "https://radio2bindia.out.airtime.pro:8000/radio2bindia_a",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Ganesh_2b_Radio.jpg"
+  },
+  {
+    "channel_name": "Devi Maa 2b Radio",
+    "streaming_link": "https://ibadat.out.airtime.pro:8000/ibadat_a",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Devi_Maa_2b_Radio.jpg"
+  },
+  {
+    "channel_name": "Shiva 2b Radio",
+    "streaming_link": "https://hot.out.airtime.pro:8000/hot_a",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Shiva_2b_Radio.jpg"
+  },
+  {
+    "channel_name": "Krishna 2b Radio",
+    "streaming_link": "https://millenniumhits.out.airtime.pro:8000/millenniumhits_a",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Krishna_2b_Radio.jpg"
+  },
+  {
+    "channel_name": "Shri Ram 2b Radio",
+    "streaming_link": "https://dard.out.airtime.pro:8000/dard_a",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Shri_Ram_2b_Radio.jpg"
+  },
+  {
+    "channel_name": "Guruvar 2b Radio",
+    "streaming_link": "https://iskon2b.out.airtime.pro:8000/iskon2b_a",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Guruvar_2b_Radio.jpg"
+  },
+  {
+    "channel_name": "Gurbani 2b Radio",
+    "streaming_link": "https://gurbani.out.airtime.pro:8000/gurbani_a",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Gurbani_2b_Radio.jpg"
+  },
+  {
+    "channel_name": "Meditation 2b Radio",
+    "streaming_link": "https://djbeat.out.airtime.pro:8000/djbeat_a",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Meditation_2b_Radio.jpg"
+  },
+  {
+    "channel_name": "PMJ Radio Usa",
+    "streaming_link": "https://usa18.fastcast4u.com/proxy/gmkxvgxh?mp=/1",
+    "category": "International",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/PMJ_Radio_Usa.jpg"
+  },
+  {
+    "channel_name": "Anant Radio",
+    "streaming_link": "https://stream-156.zeno.fm/rzuke118e3quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyenVrZTExOGUzcXV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidkdBUVF2OEtUenUxREZkTlR5ZEdyZyIsImlhdCI6MTc1OTMyNDc5MSwiZXhwIjoxNzU5MzI0ODUxfQ.vx1ujzhUF3YSR68DSUt2wJ-w7nsle_wmKW5cdBhlDac",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Anant_Radio.jpg"
+  },
+  {
+    "channel_name": "Aasman Radio",
+    "streaming_link": "https://aasman_radio.ice.infomaniak.ch/aasmanradio",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Aasman_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio Sangeetmala",
+    "streaming_link": "https://rs.suricloud.com/radio/8030/radio.mp3",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Sangeetmala.jpg"
+  },
+  {
+    "channel_name": "Radio Shruti Hindi",
+    "streaming_link": "https://rs.suricloud.com/radio/8000/radio.mp3",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Shruti_Hindi.jpg"
+  },
+  {
+    "channel_name": "Radio Aryan Online",
+    "streaming_link": "https://stream-175.zeno.fm/vk9arlo3matuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2azlhcmxvM21hdHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVGxhSE1kajVRcGVwa2xyQUd0ZE5FQSIsImlhdCI6MTc2MTU4MjI0NywiZXhwIjoxNzYxNTgyMzA3fQ.m5vDMNnJPK6WCGzon2DssazGl20KniRUvmxg6dHmSLI",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Aryan_Online.jpg"
+  },
+  {
+    "channel_name": "Radio Dhadkan Online",
+    "streaming_link": "https://stream-176.zeno.fm/vwk27hg1qf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2d2syN2hnMXFmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNjlRMkFUZXJUN2FCTmptY190d1FTQSIsImlhdCI6MTc2MTU4MjI2MiwiZXhwIjoxNzYxNTgyMzIyfQ.8sAchDLo1SHZyde79kM7LVJpISpNAFU1QROf71ZObuY",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Dhadkan_Online.jpg"
+  },
+  {
+    "channel_name": "Radio Preet Online",
+    "streaming_link": "https://stream-177.zeno.fm/w515pk5zc48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3NTE1cGs1emM0OHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUV9NV0t1Sk5SSFcyU0NGV1Z3Qk9LQSIsImlhdCI6MTc2MTU4MjI3OCwiZXhwIjoxNzYxNTgyMzM4fQ.KI6VcZIhg6RSrX_iInfMvvgkenWjsbtllmCzed5HVBU",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Preet_Online.jpg"
+  },
+  {
+    "channel_name": "Radio Wow",
+    "streaming_link": "https://stream-175.zeno.fm/c6k6mdbst5quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNms2bWRic3Q1cXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMDh0blVSTWpUaU82cmZjNlNSTmQ3USIsImlhdCI6MTc2MTU4MjQ3NCwiZXhwIjoxNzYxNTgyNTM0fQ.yJi0sKZRnYW814P1cSJPxJGRupNqWZQTAHH63hiGba8",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Wow.jpg"
+  },
+  {
+    "channel_name": "Bhakti Sagar FM",
+    "streaming_link": "https://stream-179.zeno.fm/lcida9v81nmvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsY2lkYTl2ODFubXZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRGkzbUhEaUJRbS0zWnkxSTBGRzFKUSIsImlhdCI6MTc2MTU4MjQ4MywiZXhwIjoxNzYxNTgyNTQzfQ.mAE4IC3oX7HXQTHLlGKrsaRU_WEVfIpfCmaPojO9wEI, https://stream-179.zeno.fm/lcida9v81nmvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsY2lkYTl2ODFubXZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRnAxNzJXcVRTZlc0YklQU0wzVWNQUSIsImlhdCI6MTc2MTU4MjQ4OSwiZXhwIjoxNzYxNTgyNTQ5fQ.-mX7-Gp03BZUD6EFscJU6jU1CX1OdCJEg4FFkJOe_uI",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Bhakti_Sagar_FM.jpg"
+  },
+  {
+    "channel_name": "Red FM 93.5 Delhi",
+    "streaming_link": "https://stream-175.zeno.fm/swfczwfqibptv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzd2ZjendmcWlicHR2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiY0ExWVRTUFVUMUtaN3YxOEY3NEZ2QSIsImlhdCI6MTc2MTU4MjU0MCwiZXhwIjoxNzYxNTgyNjAwfQ.QqsldK7VaeFcshkvorknYvst5K80L_paTEu3Xyk11eY",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Red_FM_93.5_Delhi.jpg"
+  },
+  {
+    "channel_name": "Red FM 93.5",
+    "streaming_link": "https://stream-175.zeno.fm/q97eczydqrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxOTdlY3p5ZHFyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSk9qOGF6MG5STldHUnJwaUdYYjhRUSIsImlhdCI6MTc2MTU4MjU1NSwiZXhwIjoxNzYxNTgyNjE1fQ.Zo-q196gLfoHw0waABs92wvmN3WXQVPURsN1BhvkXhI",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Red_FM_93.5.jpg"
+  },
+  {
+    "channel_name": "90s Love Songs",
+    "streaming_link": "https://stream-157.zeno.fm/rm4i9pdex3cuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJybTRpOXBkZXgzY3V2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaEE4blRJdHVRTnF3ck5CS1VYRVo3ZyIsImlhdCI6MTc2MTU4MjYyMiwiZXhwIjoxNzYxNTgyNjgyfQ.ilOT5h8SPBmxq2bfo9jyIR1BWS5ISfPiJjCD4-Uh9xE",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/90s_Love_Songs.jpg"
+  },
+  {
+    "channel_name": "Hits of Bollywood Love",
+    "streaming_link": "https://stream-176.zeno.fm/ynqhtae6dchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bnFodGFlNmRjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQUhrWnU5UmhSN21zVTFTZ0g5Vml0USIsImlhdCI6MTc2MTU4MjY4MywiZXhwIjoxNzYxNTgyNzQzfQ.BxzwRQrC65f-XrAdrLh5j2z1DsiF2MfK9GQ9W6y8LWk",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Hits_of_Bollywood_Love.jpg"
+  },
+  {
+    "channel_name": "Bollywood New Songs",
+    "streaming_link": "https://stream-179.zeno.fm/nkcqnqqmxxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJua2NxbnFxbXh4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV3AzMGRGdHFSVzJTa3QtZDRLdVpvUSIsImlhdCI6MTc2MTU4Mjc0MiwiZXhwIjoxNzYxNTgyODAyfQ.OSWs_nbpQIqg8F2YT92akp1BtmTNn0sDBwLbA85ez3M",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Bollywood_New_Songs.jpg"
+  },
+  {
+    "channel_name": "Radio Olive Online",
+    "streaming_link": "https://25633.live.streamtheworld.com/OLIVE1063.mp3",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Olive_Online.jpg"
+  },
+  {
+    "channel_name": "Green FM",
+    "streaming_link": "https://sonic.onlineaudience.co.uk/8160/stream",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Green_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Charkhi Dadri",
+    "streaming_link": "https://stream-177.zeno.fm/w515pk5zc48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3NTE1cGs1emM0OHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWHpkcmdHb1FUM20wQ0MwSzRyemhXUSIsImlhdCI6MTc2MTU4MjgzMCwiZXhwIjoxNzYxNTgyODkwfQ.wzmlrjPqu_hImu6pcrGM2DeKE9-40eEfyxRMwi3YNBQ",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Charkhi_Dadri.jpg"
+  },
+  {
+    "channel_name": "Radio Badaun 90.4 FM",
+    "streaming_link": "https://stream-148.zeno.fm/nhrtcxg09u8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuaHJ0Y3hnMDl1OHV2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicVh2WUNwV3JTZkdWVDlsZ1pkRUkzdyIsImlhdCI6MTc2MTU4Mjg3NCwiZXhwIjoxNzYxNTgyOTM0fQ.haQQIaxSBzhomhhpg_Ue0vTW80ZHS4dLo2E_p5rlgOg",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Badaun_90.4_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Kesari 90.0 FM",
+    "streaming_link": "https://stream-157.zeno.fm/vk4ye95hnxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2azR5ZTk1aG54aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQUgzSVhac0RTUU9pU0oteXFMYXFuZyIsImlhdCI6MTc2MTU4Mjg4OSwiZXhwIjoxNzYxNTgyOTQ5fQ.aIUT1pL--Vru3in-LmRTZmswLbXF2dTc-IUAcEU1cwI",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Kesari_90.0_FM.jpg"
+  },
+  {
+    "channel_name": "Radha Krishna Prem Leela",
+    "streaming_link": "https://stream-179.zeno.fm/spsz98mr6zquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzcHN6OThtcjZ6cXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiXzczRExsV1lTY0NFZFR1ZUdmcThZZyIsImlhdCI6MTc2MTU4MjkwNSwiZXhwIjoxNzYxNTgyOTY1fQ.jXWtKoPe4EkRMItzadyFhbC5roTzExLn1f1snUN-zpk",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radha_Krishna_Prem_Leela.jpg"
+  },
+  {
+    "channel_name": "Talk 100.3 FM",
+    "streaming_link": "https://funasia.streamguys1.com/live13",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Talk_100.3_FM.jpg"
+  },
+  {
+    "channel_name": "MixiFy 90’s Hits",
+    "streaming_link": "https://server.mixify.in:8000/radio.mp3?type=http&nocache=133370",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/MixiFy_90’s_Hits.jpg"
+  },
+  {
+    "channel_name": "Amlisten Music Radio",
+    "streaming_link": "https://stream-161.zeno.fm/yf5p1bya1feuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5ZjVwMWJ5YTFmZXV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiLVd2cDR3U3RRZ09CODBQSF9XM2hZUSIsImlhdCI6MTc2MTU4MzAxMiwiZXhwIjoxNzYxNTgzMDcyfQ.QfRdQQv0tp2OV7Mws-VSFUoxDsMYtDjemzZtHx1taqY",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Amlisten_Music_Radio.jpg"
+  },
+  {
+    "channel_name": "Goldy Classic",
+    "streaming_link": "https://stream-142.zeno.fm/hx2wtsw2kwkuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoeDJ3dHN3Mmt3a3V2IiwiaG9zdCI6InN0cmVhbS0xNDIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZVdCZTV6aVBSVlNKbXl3R1BRU1dwQSIsImlhdCI6MTc2MTU4MzAyNiwiZXhwIjoxNzYxNTgzMDg2fQ.9pnIvasdaW4pvbqJvVFV0Tu-2qtnsjhBCTWA6z6gdIk",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Goldy_Classic.jpg"
+  },
+  {
+    "channel_name": "Bhakti Song – Bhajan",
+    "streaming_link": "https://stream-179.zeno.fm/s60h2wwscvutv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzNjBoMnd3c2N2dXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMkxSSnc0dzNTUmVSbDEzeWNBX0xwUSIsImlhdCI6MTc2MTU4MzA1NiwiZXhwIjoxNzYxNTgzMTE2fQ.bw5nCqdV059t_YH-essna1bxh7rTU8sz5cjoHy-TGwY",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Bhakti_Song_–_Bhajan.jpg"
+  },
+  {
+    "channel_name": "Himesh Reshammiya Songs",
+    "streaming_link": "https://stream-160.zeno.fm/wg53ebxp8hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3ZzUzZWJ4cDhoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoia2FXZlU5b0pUUnFnTDBUb244d1AzZyIsImlhdCI6MTc2MTU4MzE0MSwiZXhwIjoxNzYxNTgzMjAxfQ.7xyQx34rsI9lRgad6NvFDH11_j-1TxGUcMxR-gvo3QQ",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Himesh_Reshammiya_Songs.jpg"
+  },
+  {
+    "channel_name": "Asha Bhosle Songs",
+    "streaming_link": "https://stream-159.zeno.fm/55dqsbewxwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1NWRxc2Jld3h3enV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiLXNWOGRrZlhUN2l2NlBxMTRheGhLZyIsImlhdCI6MTc2MTU4MzE3MSwiZXhwIjoxNzYxNTgzMjMxfQ.C6J9c3mP9UJQq34RePZwTGUOggVYdCIKoKd8yPwQQyk",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Asha_Bhosle_Songs.jpg"
+  },
+  {
+    "channel_name": "Best of Kumar Sanu",
+    "streaming_link": "https://stream-162.zeno.fm/shxt7qxapy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzaHh0N3F4YXB5OHV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX2gwSWphQUNSSHlBVURmWHEyUDVGZyIsImlhdCI6MTc2MTU4MzIxMywiZXhwIjoxNzYxNTgzMjczfQ.qnTALzIULDmMCCrP2Cgw8QmCYNh5GRJZHsKCVy8EeMA",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Best_of_Kumar_Sanu.jpg"
+  },
+  {
+    "channel_name": "Radio Saptrang",
+    "streaming_link": "https://stream-156.zeno.fm/ttcsc4tf8yzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0dGNzYzR0Zjh5enV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSlVqT2ExVlJRZ3FCSUpuSVpwOVBOQSIsImlhdCI6MTc2MTU4MzIyMSwiZXhwIjoxNzYxNTgzMjgxfQ.AOj1lgj-D_DKUPXRGiHw1zyFUNth5ieKRX_TBcVck68&rj-tok=AAABgfI7N1EAGl34i8AGpnsb5A&rj-ttl=5, https://stream-156.zeno.fm/ttcsc4tf8yzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0dGNzYzR0Zjh5enV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieFJkVEo1TWJUZ2kyXzVDOXdJYWo1USIsImlhdCI6MTc2MTU4MzIyNiwiZXhwIjoxNzYxNTgzMjg2fQ.lNvxBfYrIUkkgnq3W69avSr1sh8Q6PdspKLy_D2Bjfo&rj-tok=AAABgfI7N1EAGl34i8AGpnsb5A&rj-ttl=5",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Saptrang.jpg"
+  },
+  {
+    "channel_name": "NP 24 Radio Online",
+    "streaming_link": "https://stream-159.zeno.fm/8wk1s0pt008uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4d2sxczBwdDAwOHV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYjkxR2V1ZWFTdy13YWhOMGN2ODZLQSIsImlhdCI6MTc2MTU4MzI1MywiZXhwIjoxNzYxNTgzMzEzfQ.RZkdcHwVwoQA7_4qsFDxjNjCJAejI6tDVODaa1u5ea0&rj-tok=AAABgLQVbfsAqnqXtKNqSmyveQ&rj-ttl=5",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/NP_24_Radio_Online.jpg"
+  },
+  {
+    "channel_name": "Radio Sai Global Harmony Bhajan Stream",
+    "streaming_link": "https://stream.sssmediacentre.org:8000/autobhajan",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Sai_Global_Harmony_Bhajan_Stream.jpg"
+  },
+  {
+    "channel_name": "Radio Badal Online",
+    "streaming_link": "https://str3.openstream.co/1717?aw_0_1st.collectionid%3D6654%26stationId%3D6654%26publisherId%3D1741%26k%3D1761583281",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Badal_Online.jpg"
+  },
+  {
+    "channel_name": "Marudhara Radio Online",
+    "streaming_link": "https://stream-171.zeno.fm/eyxg23ky4x8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJleXhnMjNreTR4OHV2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidW5pVGlTUFdSQi1nanpVZ2t5MGJGUSIsImlhdCI6MTc2MTU4MzMwNywiZXhwIjoxNzYxNTgzMzY3fQ.grCopld3XfyIuf7sWVKgV5YnY2THhT9hF1HVvDpyLMY&rj-tok=AAABgLHn7tUA0wEhzwNjDfhnlQ&rj-ttl=5, https://stream-172.zeno.fm/eyxg23ky4x8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJleXhnMjNreTR4OHV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZVdHRS1pSHhSb0tjZVktWERjMXZ6QSIsImlhdCI6MTc2MTU4MzMwMywiZXhwIjoxNzYxNTgzMzYzfQ.JQqQq6olfL9sc2UcO-NdlPmCLw-6kxKqscqesPTlP20&rj-tok=AAABgLHn7tUA0wEhzwNjDfhnlQ&rj-ttl=5",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Marudhara_Radio_Online.jpg"
+  },
+  {
+    "channel_name": "Marwar Radio Online",
+    "streaming_link": "https://stream-170.zeno.fm/vq6p5vxb4v8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cTZwNXZ4YjR2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiY1BHRlRIbFdRUDZpUi1udWRQQzFidyIsImlhdCI6MTc2MTU4MzMyMSwiZXhwIjoxNzYxNTgzMzgxfQ.ChUVN5US1HGvHO9a1nNRHpLQus1o4k6pignWH5nJkX4&rj-tok=AAABgLHVrvwAKMzT1BxIQMrSww&rj-ttl=5",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Marwar_Radio_Online.jpg"
+  },
+  {
+    "channel_name": "My Radio DJ Online",
+    "streaming_link": "https://stream-155.zeno.fm/84h97t3ewg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4NGg5N3QzZXdnMHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMFVNOEJmQnhTSnVjMkE0STNpdkdtdyIsImlhdCI6MTc2MTU4MzM0OSwiZXhwIjoxNzYxNTgzNDA5fQ.XFfsMMO5e4zmkmvZ7nutH7XHvG8q30XoZ5L72tJstMI",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/My_Radio_DJ_Online.jpg"
+  },
+  {
+    "channel_name": "Aap Ki Aawaz Radio",
+    "streaming_link": "https://stream-176.zeno.fm/spm0t8gq45quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzcG0wdDhncTQ1cXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNndMcGZVRFhUSXV5TjZnYTNpRzQtQSIsImlhdCI6MTc2MTU4MzM4MiwiZXhwIjoxNzYxNTgzNDQyfQ.4UesiGizlmudHhRtbu0OJJN5ffTfhlvdz4IeriBelUU&rj-ttl=5&rj-tok=AAABgK3n0D8A7pPp5akoihNtJw",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Aap_Ki_Aawaz_Radio.jpg"
+  },
+  {
+    "channel_name": "Old Monk Radio Online",
+    "streaming_link": "https://stream-172.zeno.fm/pr0zc64zdy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwcjB6YzY0emR5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiXzhUVWI2QU1SS083NE5VU0xXX0J1QSIsImlhdCI6MTc2MTU4MzQxMSwiZXhwIjoxNzYxNTgzNDcxfQ.yLD6RwD7A4lyNog5EszVlbnfdiOnedqug1J3SsG0Bb4&rj-tok=AAABgK265qQADXx0g3I2vdCJRA&rj-ttl=5",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Old_Monk_Radio_Online.jpg"
+  },
+  {
+    "channel_name": "Mohabbat Radio Online",
+    "streaming_link": "https://stream-143.zeno.fm/t2ekq8zsgtzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0MmVrcTh6c2d0enV2IiwiaG9zdCI6InN0cmVhbS0xNDMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTTRUMlN0RFlTSC0zbkdyZE4tSjZLQSIsImlhdCI6MTc2MTU4MzQ0MSwiZXhwIjoxNzYxNTgzNTAxfQ.IKJwK_n5Ii7FBTRDej5H9DkkY-7lUHDkRnML80b-v1w&rj-tok=AAABgK1y3g0AfyUnNwG-fT68BA&rj-ttl=5",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Mohabbat_Radio_Online.jpg"
+  },
+  {
+    "channel_name": "OYE INDIA Online",
+    "streaming_link": "https://stream-157.zeno.fm/cgrwb1hd4v8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjZ3J3YjFoZDR2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQWZ5dk1GcGZSRmVRVGlPdEVnOEU0QSIsImlhdCI6MTc2MTU4MzU1NCwiZXhwIjoxNzYxNTgzNjE0fQ.JSg09mXQ6H8J3lLZuDD3tL_cNfoHPVZxg3vxcbZ8wmg",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/OYE_INDIA_Online.jpg"
+  },
+  {
+    "channel_name": "Bhakti World Radio Online",
+    "streaming_link": "https://ibadat.out.airtime.pro/ibadat_a",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Bhakti_World_Radio_Online.jpg"
+  },
+  {
+    "channel_name": "Ram Bhajan",
+    "streaming_link": "https://dard.out.airtime.pro/dard_a",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Ram_Bhajan.jpg"
+  },
+  {
+    "channel_name": "Shemaroo Bhakti Radio Online",
+    "streaming_link": "https://stream-175.zeno.fm/utb5up4qbpqtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1dGI1dXA0cWJwcXR2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUzZxajZhR0RRVGkxWkMwME5iYmF5dyIsImlhdCI6MTc2MTU4MzgxNiwiZXhwIjoxNzYxNTgzODc2fQ.G32ueGkL2PSZRmH1NGSeBbTBJMAGkuCVLVpH5v6X30M",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Shemaroo_Bhakti_Radio_Online.jpg"
+  },
+  {
+    "channel_name": "ABP News",
+    "streaming_link": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_364.m3u8",
+    "category": "News",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/ABP_News.jpg"
+  },
+  {
+    "channel_name": "Radio Baingan online",
+    "streaming_link": "https://stream-172.zeno.fm/eyxg23ky4x8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJleXhnMjNreTR4OHV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOTd6dFozUFJSN2FybmR5Y0MyYTNhZyIsImlhdCI6MTc2MTU4MzkwMCwiZXhwIjoxNzYxNTgzOTYwfQ.H7L_BsqP3O73JDd4J3XLxpgzrEPKinztz5k63Wx0xsk",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Baingan_online.jpg"
+  },
+  {
+    "channel_name": "Filmy Mirchi Radio",
+    "streaming_link": "https://stream-142.zeno.fm/6n6ewddtad0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2bjZld2RkdGFkMHV2IiwiaG9zdCI6InN0cmVhbS0xNDIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVUhvVEpCLUdRZW1mbTMwZU5zaEhRUSIsImlhdCI6MTc2MTU4MzkyOCwiZXhwIjoxNzYxNTgzOTg4fQ.HZjMvpO8cN2s74J_7Vv0Wya1M71A37n5k_Ib6YesLKU",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Filmy_Mirchi_Radio.jpg"
+  },
+  {
+    "channel_name": "Mirchi Mumbai Marathi",
+    "streaming_link": "https://silverstream.radioca.st/;",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Mirchi_Mumbai_Marathi.jpg"
+  },
+  {
+    "channel_name": "Evergreen Bollywood Radio",
+    "streaming_link": "https://stream-176.zeno.fm/g9s4zuk8z4zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnOXM0enVrOHo0enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiY2F4ZldYNTBTMjItYWN1TFVlTjkzZyIsImlhdCI6MTc2MTU4NDA1MiwiZXhwIjoxNzYxNTg0MTEyfQ.9ucMxIkbtteofYQqrZtTI9BNgDZUi8mfurhrS_7e9bY, https://stream-176.zeno.fm/g9s4zuk8z4zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnOXM0enVrOHo0enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidVNwU1JqYUNUV0NmUDNjamc5bnZLZyIsImlhdCI6MTc2MTU4NDA0NywiZXhwIjoxNzYxNTg0MTA3fQ.LIOdiVaTi35B7LV3HThcGKrP-Bf6Px3Pq4gyTEwuCEs",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Evergreen_Bollywood_Radio.jpg"
+  },
+  {
+    "channel_name": "60’s Forever Hungama Radio",
+    "streaming_link": "https://securestreams7.autopo.st/?uri=http://cast2.asurahosting.com:8569/stream",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/60’s_Forever_Hungama_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio Wow 96.9 Online",
+    "streaming_link": "https://stream-175.zeno.fm/d22wrdbst5quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkMjJ3cmRic3Q1cXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiakpVckxtbmtTSk85eVZYTExYTTN4dyIsImlhdCI6MTc2MTU4NDEyNywiZXhwIjoxNzYxNTg0MTg3fQ.n2g5DXgDfP2ppDBoWTJZdIj7vNQC7hovp4Dghjp1E7s",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Wow_96.9_Online.jpg"
+  },
+  {
+    "channel_name": "Bollywood Gold Revivals",
+    "streaming_link": "https://stream-156.zeno.fm/0xsvm1nr7a5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIweHN2bTFucjdhNXR2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicmpjVmFqNktTQ2lRNC1CaWVoNE4xZyIsImlhdCI6MTc2MTU4NDIyNCwiZXhwIjoxNzYxNTg0Mjg0fQ.wv5mVdahC_-kly6XpRTHITlXWH3wvV6ZDanECwk8hHI",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Bollywood_Gold_Revivals.jpg"
+  },
+  {
+    "channel_name": "Club Mirchi Radio",
+    "streaming_link": "https://stream-144.zeno.fm/6n6ewddtad0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2bjZld2RkdGFkMHV2IiwiaG9zdCI6InN0cmVhbS0xNDQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMkhQdGJEc1pUMVNLRW9US1VUeFlGQSIsImlhdCI6MTc2MTU4NDI2MiwiZXhwIjoxNzYxNTg0MzIyfQ.JrA3KdhkYM9AIOeB7xzbCts619y7Aofbncrp14exuaE",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Club_Mirchi_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio City Hip Hop",
+    "streaming_link": "https://prclive4.listenon.in/HipHop",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_City_Hip_Hop.jpg"
+  },
+  {
+    "channel_name": "Radio Jagriti",
+    "streaming_link": "https://stream-154.zeno.fm/4dycn4hmffhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZHljbjRobWZmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibjRDajFITndSTHVodEpmdjJQOGlzdyIsImlhdCI6MTc2MTU4NDQwNCwiZXhwIjoxNzYxNTg0NDY0fQ.cTiz-P2z8_wFaXPt3AgVTtSShinUjP1f_aNx2hO1yjs, https://stream-156.zeno.fm/4dycn4hmffhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZHljbjRobWZmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieWd5S1hCakdTSHU5dVNxdGdlWXdBdyIsImlhdCI6MTc2MTU4NDQxMywiZXhwIjoxNzYxNTg0NDczfQ.C27GmEfEBg54d942L8Rd8xxmMNxivTE2I4RTb3CCjh0",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Jagriti.jpg"
+  },
+  {
+    "channel_name": "VV Radio",
+    "streaming_link": "https://eu1.fastcast4u.com/proxy/vvradio?mp=/;",
+    "category": "Others",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/VV_Radio.jpg"
+  },
+  {
+    "channel_name": "Goldy Cool",
+    "streaming_link": "https://stream-143.zeno.fm/hhfmh86tfm8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoaGZtaDg2dGZtOHV2IiwiaG9zdCI6InN0cmVhbS0xNDMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibVpfSDA0UzNUSUNtaG16VUY4eWoyUSIsImlhdCI6MTc2MTU4NDUxNCwiZXhwIjoxNzYxNTg0NTc0fQ.6GbgKHsQhcXvhlHA6SMwOhWUuwtOJT7q0HBfcfIUrzI",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Goldy_Cool.jpg"
+  },
+  {
+    "channel_name": "Filmat Music Radio",
+    "streaming_link": "https://stream-175.zeno.fm/0eukcvcf8tzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwZXVrY3ZjZjh0enV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWGpTU210WXVRSUtjZ19XVHVub2NiQSIsImlhdCI6MTc2MTU4NDU5NSwiZXhwIjoxNzYxNTg0NjU1fQ.kR7ie6Nyp3h8OmfmM8jxqrtgxuu80949f1ILy8JCoYA",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Filmat_Music_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio Deewana",
+    "streaming_link": "https://stream-157.zeno.fm/x1q3r3qdxy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4MXEzcjNxZHh5OHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTGxqSWVvWWlUZGVkVzNHdUF1Ykt1dyIsImlhdCI6MTc2MTU4NDY0MCwiZXhwIjoxNzYxNTg0NzAwfQ.5KnI5hDMkZ1F3-ZfVl1Mm7bQYBQZtWLLhTZfgjhjMHk",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Deewana.jpg"
+  },
+  {
+    "channel_name": "AIR Chaibasa",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio224/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AIR_Chaibasa.jpg"
+  },
+  {
+    "channel_name": "AIR Jamshedpur PC",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio216/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AIR_Jamshedpur_PC.jpg"
+  },
+  {
+    "channel_name": "AIR Barmer",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio200/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AIR_Barmer.jpg"
+  },
+  {
+    "channel_name": "AIR Kurukshetra",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio213/playlist.m3u8",
+    "category": "News",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AIR_Kurukshetra.jpg"
+  },
+  {
+    "channel_name": "AIR Chhindwara",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio113/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AIR_Chhindwara.jpg"
+  },
+  {
+    "channel_name": "Radio Houston KI Jaan",
+    "streaming_link": "https://ice8.securenetsystems.net/SGTRADIO?type=.mp3",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Houston_KI_Jaan.jpg"
+  },
+  {
+    "channel_name": "Radio Bollywood Bio",
+    "streaming_link": "https://stream-173.zeno.fm/kr08sxc2tfeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrcjA4c3hjMnRmZXV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicGZFV3JZTWZRMDJJd1pzYW9FdWd0ZyIsImlhdCI6MTc2MTU4NTE5NSwiZXhwIjoxNzYxNTg1MjU1fQ.5TZa7UzvXcYpXC6PNYEbU9ZeH32XSDHz1deJ8-HjPww",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Bollywood_Bio.jpg"
+  },
+  {
+    "channel_name": "AIR Jaisalmer",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio206/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AIR_Jaisalmer.jpg"
+  },
+  {
+    "channel_name": "AIR Dhule",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio079/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AIR_Dhule.jpg"
+  },
+  {
+    "channel_name": "AIR Jammu",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio128/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AIR_Jammu.jpg"
+  },
+  {
+    "channel_name": "AIR Ahmednagar",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio019/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AIR_Ahmednagar.jpg"
+  },
+  {
+    "channel_name": "AIR Ambikapur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio086/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AIR_Ambikapur.jpg"
+  },
+  {
+    "channel_name": "PopDesi SBS Radio",
+    "streaming_link": "https://sbs-ice.streamguys1.com/sbs-popdesi",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/PopDesi_SBS_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio Fun Asia",
+    "streaming_link": "https://funasia.streamguys1.com/live-1?_=1545125406418",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Fun_Asia.jpg"
+  },
+  {
+    "channel_name": "AIR Aurangabad",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio065/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AIR_Aurangabad.jpg"
+  },
+  {
+    "channel_name": "All India Radio Chhatarpur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio104/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Chhatarpur.jpg"
+  },
+  {
+    "channel_name": "Radio Noida",
+    "streaming_link": "https://stream-176.zeno.fm/xbz9wlgsygyuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4Yno5d2xnc3lneXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidWpUQ3FNMUVUZC1uMmFOOGdtMzhLZyIsImlhdCI6MTc2MTU4NjMxNiwiZXhwIjoxNzYxNTg2Mzc2fQ.KCx0tbQ50917gIprDr80nTbzlNlPDYDmouVMBFyJqe8",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Noida.jpg"
+  },
+  {
+    "channel_name": "Hum 106.1 FM Radio",
+    "streaming_link": "https://ice10.securenetsystems.net/HUMFM?playSessionID=ECACF786-A4F2-6C95-7BD7DCE1A730EE1A",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Hum_106.1_FM_Radio.jpg"
+  },
+  {
+    "channel_name": "Madhur Sangeet Radio",
+    "streaming_link": "https://stream-163.zeno.fm/yv2k0dp18vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5djJrMGRwMTh2enV2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiN3NqZjA3SUJUVC1sQkVHQW5fWEtBQSIsImlhdCI6MTc2MTU4NjQ4OCwiZXhwIjoxNzYxNTg2NTQ4fQ.Lrr2UdaNkr9Afuo6LZ1e06Wu9U-MnKnK0iRslNY3eKw",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Madhur_Sangeet_Radio.jpg"
+  },
+  {
+    "channel_name": "NDTV – INDIA",
+    "streaming_link": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8",
+    "category": "News",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/NDTV_–_INDIA.jpg"
+  },
+  {
+    "channel_name": "Hits of Bollywood New",
+    "streaming_link": "https://stream-173.zeno.fm/rqqps6cbe3quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJycXFwczZjYmUzcXV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZHlKeHpiQXdSckNUb2xjZldWcmxkdyIsImlhdCI6MTc2MTU4NjgwMywiZXhwIjoxNzYxNTg2ODYzfQ.oBsnY0wmJDdTy4CrRriP8ZZtqG_7MloYScljCQSBPL4",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Hits_of_Bollywood_New.jpg"
+  },
+  {
+    "channel_name": "Pehla Nasha Radio",
+    "streaming_link": "https://sp14.instainternet.com/8098/stream",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Pehla_Nasha_Radio.jpg"
+  },
+  {
+    "channel_name": "NDTV 24X7 Radio",
+    "streaming_link": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
+    "category": "News",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/NDTV_24X7_Radio.jpg"
+  },
+  {
+    "channel_name": "Dance Masti Bollywood Radio Hungama",
+    "streaming_link": "https://2.mystreaming.net/uber-app/bollywooddance/icecast.audio",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Dance_Masti_Bollywood_Radio_Hungama.jpg"
+  },
+  {
+    "channel_name": "FM Rainbow Goa 105.4",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio048/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/FM_Rainbow_Goa_105.4.jpg"
+  },
+  {
+    "channel_name": "Sun City FM All India Radio",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio089/playlist.m3u8",
+    "category": "News",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Sun_City_FM_All_India_Radio.jpg"
+  },
+  {
+    "channel_name": "Mohammed Rafi Songs",
+    "streaming_link": "https://stream-170.zeno.fm/2xx62x8ztm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyeHg2Mng4enRtMHV2IiwiaG9zdCI6InN0cmVhbS0xNzAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidEw5V2hFOTRRZjIxWUt5ZnJhSGFqUSIsImlhdCI6MTc2MTU4NzM1MiwiZXhwIjoxNzYxNTg3NDEyfQ.vi1Bo_RG5yPOOlTqE_4-jaoFeXgThaVsW5p9_NvNIJo",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Mohammed_Rafi_Songs.jpg"
+  },
+  {
+    "channel_name": "Lata Mangeshkar Online Radio",
+    "streaming_link": "https://stream-162.zeno.fm/87xam8pf7tzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4N3hhbThwZjd0enV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibThETDRQNEhUWG1jOUNlam1NV3NRUSIsImlhdCI6MTc2MTU4NzQyOCwiZXhwIjoxNzYxNTg3NDg4fQ.swTHM79TLb4pCA7FvP8xKaO-iEP_DzR-KEnidOT0bZs",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Lata_Mangeshkar_Online_Radio.jpg"
+  },
+  {
+    "channel_name": "Bollywood Radio and Beyond",
+    "streaming_link": "https://s6.yesstreaming.net/proxy/john1237?mp=/live",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Bollywood_Radio_and_Beyond.jpg"
+  },
+  {
+    "channel_name": "Radio Hungama 90s Once Again",
+    "streaming_link": "https://stream-148.zeno.fm/fdgs82xkzhhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmZGdzODJ4a3poaHZ2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib2tUTTRwLWFUUFdUeFpubUl5X3JGdyIsImlhdCI6MTc2MTU4NzUwNiwiZXhwIjoxNzYxNTg3NTY2fQ.squKyn5q94B0jHWOKgsjKom38uo4ZwvrngrAB-eD5CM",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Hungama_90s_Once_Again.jpg"
+  },
+  {
+    "channel_name": "Air FM Rainbow",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Air_FM_Rainbow.jpg"
+  },
+  {
+    "channel_name": "Big FM 92.7 Delhi",
+    "streaming_link": "https://stream-154.zeno.fm/dbstwo3dvhhtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkYnN0d28zZHZoaHR2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNmp5czIzSWJTQldXaUZVaHYzSnNNZyIsImlhdCI6MTc2MTU4NzU3NywiZXhwIjoxNzYxNTg3NjM3fQ.a2bIByRkAzqcQzOcTJyUitsck9ajczwlUULvn4zcf74",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Big_FM_92.7_Delhi.jpg"
+  },
+  {
+    "channel_name": "Radio Mirchi 98.3 Live FM",
+    "streaming_link": "https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Mirchi_98.3_Live_FM.jpg"
+  },
+  {
+    "channel_name": "All India Radio Air Akashvani",
+    "streaming_link": "https://www.youtube.com/embed/videoseries?list=UUYOv0QZr2B70Rkx_ZqIA84w",
+    "category": "News",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Air_Akashvani.jpg"
+  },
+  {
+    "channel_name": "Aaj Tak Radio",
+    "streaming_link": "https://feeds.intoday.in/aajtak/api/master.m3u8",
+    "category": "News",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Aaj_Tak_Radio.jpg"
+  },
+  {
+    "channel_name": "Radio Hungama Evergreen Bollywood",
+    "streaming_link": "https://server.mixify.in:8010/radio.mp3",
+    "category": "Oldies",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Hungama_Evergreen_Bollywood.jpg"
+  },
+  {
+    "channel_name": "All India Radio Air Shimla",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio042/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Air_Shimla.jpg"
+  },
+  {
+    "channel_name": "All India Radio Air Marathi",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio01064kbps.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Air_Marathi.jpg"
+  },
+  {
+    "channel_name": "FM Tragopan Kohima",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio220/playlist.m3u8",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/FM_Tragopan_Kohima.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Solapur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio093/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Solapur.jpg"
+  },
+  {
+    "channel_name": "All India Radio Air Pune",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio012/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Air_Pune.jpg"
+  },
+  {
+    "channel_name": "All India Radio Air Mhadei, Panaji",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio049/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Air_Mhadei,_Panaji.jpg"
+  },
+  {
+    "channel_name": "All India Radio Srinagar Kashmir",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio136/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Srinagar_Kashmir.jpg"
+  },
+  {
+    "channel_name": "All India Radio Air Mysuru",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio177/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Air_Mysuru.jpg"
+  },
+  {
+    "channel_name": "All India Radio Air Rohtak",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio188/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Air_Rohtak.jpg"
+  },
+  {
+    "channel_name": "All India Radio Air Jabalpur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio167/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Air_Jabalpur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Adilabad",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio218/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Adilabad.jpg"
+  },
+  {
+    "channel_name": "Amruthavarshini Radio",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio028/hlspbaudio02864kbps.m3u8",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Amruthavarshini_Radio.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Jodhpur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio088/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Jodhpur.jpg"
+  },
+  {
+    "channel_name": "All India Radio Air Indore",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Air_Indore.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Vijayawada - Akashvani Andhra Pradesh",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio175/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Vijayawada_-_Akashvani_Andhra_Pradesh.jpg"
+  },
+  {
+    "channel_name": "All India Radio Air Bhopal",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio146/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Air_Bhopal.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Jeypore",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio112/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Jeypore.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Mahanadi Sambalpur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio182/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Mahanadi_Sambalpur.jpg"
+  },
+  {
+    "channel_name": "Radio Suno 1024 FM",
+    "streaming_link": "https://vobook.ru/http://51.255.235.165:5476/;stream.mp3",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Suno_1024_FM.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Kolkata - A Geetanjali",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio05564kbps.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Kolkata_-_A_Geetanjali.jpg"
+  },
+  {
+    "channel_name": "Radio City Dil Se FM",
+    "streaming_link": "http://19393.live.streamtheworld.com/CITY_DIL_SE.mp3",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_City_Dil_Se_FM.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Bengaluru",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio03064kbps.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Bengaluru.jpg"
+  },
+  {
+    "channel_name": "Air Bhuj",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio195/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Air_Bhuj.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Tirupati",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio144/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Tirupati.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Dharwad",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio150/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Dharwad.jpg"
+  },
+  {
+    "channel_name": "All india radio Air Kurnool",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio052/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_india_radio_Air_Kurnool.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Jalgaon",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio096/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Jalgaon.jpg"
+  },
+  {
+    "channel_name": "Radio Mann Deshi Tarang",
+    "streaming_link": "https://streamasiahlscdn.atc-labs.com/radiomanndeshi.m3u8",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Mann_Deshi_Tarang.jpg"
+  },
+  {
+    "channel_name": "All India Radio Air Cuddapah (Akashvani Kadapa)",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio018/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Air_Cuddapah_(Akashvani_Kadapa).jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Imphal Sangai",
+    "streaming_link": "https://www.youtube.com/embed/DvwgMOsQPRI",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Imphal_Sangai.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Pune FM",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Pune_FM.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Calicut",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio082/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Calicut.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Kochi",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Kochi.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Nellore",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio168/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Nellore.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Hassan",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio172/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Hassan.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Warangal",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio154/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Warangal.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Yavatmal",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio109/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Yavatmal.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Chandigarh",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio111/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Chandigarh.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Hyderabad A",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Hyderabad_A.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Varanasi",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio094/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Varanasi.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Darbhanga",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio160/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Darbhanga.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Jaipur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio192/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Jaipur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Imphal Kangla",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio209/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Imphal_Kangla.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Ratnagiri",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio071/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Ratnagiri.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Silchar",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio090/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Silchar.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Satara",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio076/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Satara.jpg"
+  },
+  {
+    "channel_name": "All India Radio Air Rampur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio179/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Air_Rampur.jpg"
+  },
+  {
+    "channel_name": "AIR Akashvani Port Blair",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio038/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AIR_Akashvani_Port_Blair.jpg"
+  },
+  {
+    "channel_name": "All India Radio Air Churu",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio226/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Air_Churu.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Siliguri",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio164/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Siliguri.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Rajkot",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio155/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Rajkot.jpg"
+  },
+  {
+    "channel_name": "AIR Kozhikode Real FM",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/AIR_Kozhikode_Real_FM.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Kolhapur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio063/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Kolhapur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Sangli",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio106/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Sangli.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Kannur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio173/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Kannur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Raipur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio118/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Raipur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Parbhani",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio085/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Parbhani.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Hyderabad B",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio033/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Hyderabad_B.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Akola",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio178/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Akola.jpg"
+  },
+  {
+    "channel_name": "All India radio AIR Delhi Indraprastha",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio006_Auto.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_radio_AIR_Delhi_Indraprastha.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Balangir",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio187/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Balangir.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Nizamabad",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio222/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Nizamabad.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Kargil",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio066/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Kargil.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Kolkata - B Sanchayita",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio056/hlspbaudio05664kbps.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Kolkata_-_B_Sanchayita.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Gangtok",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio227/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Gangtok.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Suratgarh",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio064/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Suratgarh.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Madikeri",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio068/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Madikeri.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Nasik",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio035/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Nasik.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Nanded",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio072/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Nanded.jpg"
+  },
+  {
+    "channel_name": "All india radio Air Markapur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio039/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_india_radio_Air_Markapur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Dehradun",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio191/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Dehradun.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Kothagudem",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Kothagudem.jpg"
+  },
+  {
+    "channel_name": "All India radio AIR Delhi Rajdhani",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio003/hlspbaudio003_Auto.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_radio_AIR_Delhi_Rajdhani.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Vadodara",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio095/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Vadodara.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Berhampur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio180/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Berhampur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Sambalpur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio181/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Sambalpur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Leh",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio223/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Leh.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Bhatinda",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio117/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Bhatinda.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Najibabad",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio162/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Najibabad.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Almora",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio122/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Almora.jpg"
+  },
+  {
+    "channel_name": "FM Ujjayanta Agartala",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio130/playlist.m3u8",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/FM_Ujjayanta_Agartala.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Nagpur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio069/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Nagpur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Osmanabad",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio132/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Osmanabad.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Gwalior",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio205/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Gwalior.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Bhagalpur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio292/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Bhagalpur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Kalaburagi (Gulbarga)",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio015/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Kalaburagi_(Gulbarga).jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Beed",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio077/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Beed.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Agartala PC",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio131/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Agartala_PC.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Bhawanipatna",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio120/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Bhawanipatna.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Patiala",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio163/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Patiala.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Bareilly",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio124/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Bareilly.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Baripada",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio158/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Baripada.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Murshidabad",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio169/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Murshidabad.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Bijapur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio145/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Bijapur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Ranchi",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio199/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Ranchi.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Raichur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio198/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Raichur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Gorakhpur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio203/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Gorakhpur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Mathura",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio067/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Mathura.jpg"
+  },
+  {
+    "channel_name": "Akashvani Dharamshala",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio165/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akashvani_Dharamshala.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Puri FM",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio100/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Puri_FM.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Rewa",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio225/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Rewa.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Prayagraj",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio125/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Prayagraj.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Shillong",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio161/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Shillong.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Hospet",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio184/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Hospet.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Amravati",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio151/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Amravati.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Sasaram",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio075/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Sasaram.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Kanpur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio194/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Kanpur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Daman",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio208/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Daman.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Kathua",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio190/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Kathua.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Sindhudurg",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio219/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Sindhudurg.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Khandwa",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio143/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Khandwa.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Keonjhar",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio166/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Keonjhar.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Surat",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio186/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Surat.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Chandrapur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio074/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Chandrapur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Bikaner",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio053/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Bikaner.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Rourkela",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio215/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Rourkela.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Jhansi",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio099/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Jhansi.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Udaipur FM Lake City",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio149/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Udaipur_FM_Lake_City.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Alwar",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio153/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Alwar.jpg"
+  },
+  {
+    "channel_name": "All India Radio Air Purnea",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio147/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Air_Purnea.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Kota",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio084/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Kota.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Balaghat",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio091/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Balaghat.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Bilaspur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Bilaspur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Jhalawar",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio157/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Jhalawar.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Banswara",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio014/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Banswara.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Hazaribagh",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio197/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Hazaribagh.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Ballari",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Ballari.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Nagaur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio170/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Nagaur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Himmatnagar",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio217/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Himmatnagar.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Obra",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio235/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Obra.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Sawai Madhopur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio119/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Sawai_Madhopur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Kavaratti",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio189/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Kavaratti.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Shivpuri",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio171/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Shivpuri.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Udaipur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio148/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Udaipur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Mount Abu",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio159/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Mount_Abu.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Betul",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio108/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Betul.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Shahdol",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio228/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Shahdol.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Chittorgarh",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio060/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Chittorgarh.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Hisar",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio185/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Hisar.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Aizawl",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio221/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Aizawl.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Pauri",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio107/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Pauri.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Raigarh",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio196/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Raigarh.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR Jagdalpur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio201/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_Jagdalpur.jpg"
+  },
+  {
+    "channel_name": "All India Radio AIR AHWA",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio236/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_AIR_AHWA.jpg"
+  },
+  {
+    "channel_name": "Megazone Bollywood",
+    "streaming_link": "https://vm65162.streamerr.co/listen/megazone_bollywood_/radio.mp3",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Megazone_Bollywood.jpg"
+  },
+  {
+    "channel_name": "Gulshan Radio",
+    "streaming_link": "https://cdn.voscast.com/player/player.php?host=s3.voscast.com&port=11510&mount=/stream&autoplay=true&icecast=false",
+    "category": "News",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Gulshan_Radio.jpg"
+  },
+  {
+    "channel_name": "All India Radio Air Guwahati Pragjyotishpur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio237/playlist.m3u8",
+    "category": "News",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Air_Guwahati_Pragjyotishpur.jpg"
+  },
+  {
+    "channel_name": "All India Radio Air Itanagar Arun FM",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio234/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Air_Itanagar_Arun_FM.jpg"
+  },
+  {
+    "channel_name": "All India Radio Air Jabalpur FM",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio240/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/All_India_Radio_Air_Jabalpur_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Mirchi Murga",
+    "streaming_link": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUR_HIN_ISTAAC.m3u8",
+    "category": "Comedy",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Mirchi_Murga.jpg"
+  },
+  {
+    "channel_name": "Radio Mirchi Insta Pyaar",
+    "streaming_link": "https://playerservices.streamtheworld.com/api/livestream-redirect/MRO_HIN_ISTAAC.m3u8",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Mirchi_Insta_Pyaar.jpg"
+  },
+  {
+    "channel_name": "Mirchi Stories with joseph annamkutty",
+    "streaming_link": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOS_MAL_ISTAAC.m3u8",
+    "category": "Comedy",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Mirchi_Stories_with_joseph_annamkutty.jpg"
+  },
+  {
+    "channel_name": "Radio Mirchi Darling Shweta",
+    "streaming_link": "https://playerservices.streamtheworld.com/api/livestream-redirect/DSH_TEL_ISTAAC.m3u8",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Mirchi_Darling_Shweta.jpg"
+  },
+  {
+    "channel_name": "FM Zoawi",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio242/playlist.m3u8",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/FM_Zoawi.jpg"
+  },
+  {
+    "channel_name": "Radio Mirchi New Jersey",
+    "streaming_link": "https://playerservices.streamtheworld.com/api/livestream-redirect/NJS_HIN_ESTAAC.m3u8",
+    "category": "International",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Mirchi_New_Jersey.jpg"
+  },
+  {
+    "channel_name": "BBC Radio Asian Network",
+    "streaming_link": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_asian_network.m3u8",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/BBC_Radio_Asian_Network.jpg"
+  },
+  {
+    "channel_name": "Radio Mirchi Dubai",
+    "streaming_link": "https://playerservices.streamtheworld.com/api/livestream-redirect/DUB_HIN_GSTAAC.m3u8",
+    "category": "International",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Mirchi_Dubai.jpg"
+  },
+  {
+    "channel_name": "Radio Mirchi Dallas",
+    "streaming_link": "https://playerservices.streamtheworld.com/api/livestream-redirect/DAL_HIN_ESTAAC.m3u8",
+    "category": "International",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Mirchi_Dallas.jpg"
+  },
+  {
+    "channel_name": "Radio Mirchi Bay Area",
+    "streaming_link": "https://playerservices.streamtheworld.com/api/livestream-redirect/SFO_HIN_PSTAAC.m3u8",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Mirchi_Bay_Area.jpg"
+  },
+  {
+    "channel_name": "India Beat FM",
+    "streaming_link": "https://stream-eu-a.rcs.revma.com/hrcdg9ubv4uvv/32_l87jk9e4xju502/playlist.m3u8",
+    "category": "Pop",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/India_Beat_FM.jpg"
+  },
+  {
+    "channel_name": "Radio Gegar FM Hindi Power",
+    "streaming_link": "https://stream-eu-a.rcs.revma.com/ggn4nww711uvv/19_o1nww8xs7l2k02/playlist.m3u8",
+    "category": "Entertainment",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Gegar_FM_Hindi_Power.jpg"
+  },
+  {
+    "channel_name": "Akashvani Itanagar",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio277/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akashvani_Itanagar.jpg"
+  },
+  {
+    "channel_name": "Akashvani Pasighat",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio268/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akashvani_Pasighat.jpg"
+  },
+  {
+    "channel_name": "Akashvani Tawang",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio272/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akashvani_Tawang.jpg"
+  },
+  {
+    "channel_name": "Akashvani Tezu",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio267/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akashvani_Tezu.jpg"
+  },
+  {
+    "channel_name": "Akashvani Dibrugarh",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio255/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akashvani_Dibrugarh.jpg"
+  },
+  {
+    "channel_name": "Akashvani Diphu",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio271/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akashvani_Diphu.jpg"
+  },
+  {
+    "channel_name": "Akashvani Haflong",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio258/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akashvani_Haflong.jpg"
+  },
+  {
+    "channel_name": "Akashvani Jorhat",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio261/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akashvani_Jorhat.jpg"
+  },
+  {
+    "channel_name": "Akashvani Churachandpur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio273/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akashvani_Churachandpur.jpg"
+  },
+  {
+    "channel_name": "Akashvani Jowai",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio265/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akashvani_Jowai.jpg"
+  },
+  {
+    "channel_name": "FM Jongphi Shillong",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio264/playlist.m3u8",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/FM_Jongphi_Shillong.jpg"
+  },
+  {
+    "channel_name": "Akashvani Tura",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio259/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akashvani_Tura.jpg"
+  },
+  {
+    "channel_name": "Akashvani Mokokchung",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio263/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akashvani_Mokokchung.jpg"
+  },
+  {
+    "channel_name": "Akashvani Kohima",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio274/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akashvani_Kohima.jpg"
+  },
+  {
+    "channel_name": "Akashvani Odia",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akashvani_Odia.jpg"
+  },
+  {
+    "channel_name": "Akashvani Punjabi",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Akashvani_Punjabi.jpg"
+  },
+  {
+    "channel_name": "FM 107 Urdu Radio",
+    "streaming_link": "https://live.kwikmotion.com/qmcurduradiolive/urduradio/playlist.m3u8",
+    "category": "Music",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/FM_107_Urdu_Radio.jpg"
+  },
+  {
+    "channel_name": "Air FM Gold Mumbai",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio00764kbps.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Air_FM_Gold_Mumbai.jpg"
+  },
+  {
+    "channel_name": "Air FM Rainbow Mumbai",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio00864kbps.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Air_FM_Rainbow_Mumbai.jpg"
+  },
+  {
+    "channel_name": "Air FM Rainbow Bangalore",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio027/hlspbaudio02764kbps.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Air_FM_Rainbow_Bangalore.jpg"
+  },
+  {
+    "channel_name": "Vividh Bharati Bangalore",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio02664kbps.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Vividh_Bharati_Bangalore.jpg"
+  },
+  {
+    "channel_name": "Air FM Rainbow Kochi",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Air_FM_Rainbow_Kochi.jpg"
+  },
+  {
+    "channel_name": "Air FM Rainbow Cuttack",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio102/playlist.m3u8",
+    "category": "News",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Air_FM_Rainbow_Cuttack.jpg"
+  },
+  {
+    "channel_name": "Vividh Bharati Cuttack",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio103/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Vividh_Bharati_Cuttack.jpg"
+  },
+  {
+    "channel_name": "Air FM Rainbow Hyderabad",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Air_FM_Rainbow_Hyderabad.jpg"
+  },
+  {
+    "channel_name": "Vividh Bharati Hyderabad",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Vividh_Bharati_Hyderabad.jpg"
+  },
+  {
+    "channel_name": "Air FM Rainbow Jalandhar",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio134/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Air_FM_Rainbow_Jalandhar.jpg"
+  },
+  {
+    "channel_name": "Air FM Rainbow Kolkata",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio05864kbps.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Air_FM_Rainbow_Kolkata.jpg"
+  },
+  {
+    "channel_name": "Vividh Bharati Kolkata",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio275/hlspbaudio27564kbps.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Vividh_Bharati_Kolkata.jpg"
+  },
+  {
+    "channel_name": "Air FM Gold Kolkata",
+    "streaming_link": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio05764kbps.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Air_FM_Gold_Kolkata.jpg"
+  },
+  {
+    "channel_name": "Air FM Rainbow Kanpur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio058/playlist.m3u8",
+    "category": "News",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Air_FM_Rainbow_Kanpur.jpg"
+  },
+  {
+    "channel_name": "Air FM Rainbow Visakhapatnam",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio081/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Air_FM_Rainbow_Visakhapatnam.jpg"
+  },
+  {
+    "channel_name": "Air FM Rainbow Vijayawada",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio174/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Air_FM_Rainbow_Vijayawada.jpg"
+  },
+  {
+    "channel_name": "Vividh Bharati Vijayawada",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio176/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Vividh_Bharati_Vijayawada.jpg"
+  },
+  {
+    "channel_name": "Vividh Bharati Ahmedabad",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio037/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Vividh_Bharati_Ahmedabad.jpg"
+  },
+  {
+    "channel_name": "Vividh Bharati Rajkot",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio156/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Vividh_Bharati_Rajkot.jpg"
+  },
+  {
+    "channel_name": "Vividh Bharati Jamshedpur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio266/playlist.m3u8",
+    "category": "AIR",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Vividh_Bharati_Jamshedpur.jpg"
+  },
+  {
+    "channel_name": "Vividh Bharati Indore",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio241/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Vividh_Bharati_Indore.jpg"
+  },
+  {
+    "channel_name": "Vividh Bharati Jaipur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio193/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Vividh_Bharati_Jaipur.jpg"
+  },
+  {
+    "channel_name": "Vividh Bharati Panaji",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio280/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Vividh_Bharati_Panaji.jpg"
+  },
+  {
+    "channel_name": "Air FM Rainbow Patna",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio252/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Air_FM_Rainbow_Patna.jpg"
+  },
+  {
+    "channel_name": "Vividh Bharati Raipur",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio279/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Vividh_Bharati_Raipur.jpg"
+  },
+  {
+    "channel_name": "Air FM Rainbow Ranchi",
+    "streaming_link": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio253/playlist.m3u8",
+    "category": "AIR1",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Air_FM_Rainbow_Ranchi.jpg"
+  },
+  {
+    "channel_name": "Alka Yagnik",
+    "streaming_link": "https://2.mystreaming.net/uber/bollywoodalkayagnik/icecast.audio",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Alka_Yagnik.jpg"
+  },
+  {
+    "channel_name": "Arijit Singh",
+    "streaming_link": "https://nl4.mystreaming.net/uber/bollywoodaruitsingh/icecast.audio",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Arijit_Singh.jpg"
+  },
+  {
+    "channel_name": "Kishore Kumar",
+    "streaming_link": "https://nl4.mystreaming.net/uber/bollywoodkishorekumar/icecast.audio",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Kishore_Kumar.jpg"
+  },
+  {
+    "channel_name": "Lata Mangeshkar",
+    "streaming_link": "https://2.mystreaming.net/uber/bollywoodlatamangeshkar/icecast.audio",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Lata_Mangeshkar.jpg"
+  },
+  {
+    "channel_name": "Asha Bhosle",
+    "streaming_link": "https://2.mystreaming.net/uber/bollywoodashabhosle/icecast.audio",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Asha_Bhosle.jpg"
+  },
+  {
+    "channel_name": "Mohammed Rafi",
+    "streaming_link": "https://2.mystreaming.net/uber/bollywoodmohammedrafi/icecast.audio",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Mohammed_Rafi.jpg"
+  },
+  {
+    "channel_name": "Udit Narayan",
+    "streaming_link": "https://2.mystreaming.net/uber/bollywooduditnarayan/icecast.audio",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Udit_Narayan.jpg"
+  },
+  {
+    "channel_name": "Shreya Ghoshal",
+    "streaming_link": "https://nl4.mystreaming.net/uber/bollywoodshreyaghosal/icecast.audio",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Shreya_Ghoshal.jpg"
+  },
+  {
+    "channel_name": "Sonu Nigam",
+    "streaming_link": "https://nl4.mystreaming.net/uber/bollywoodsonunigam/icecast.audio",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Sonu_Nigam.jpg"
+  },
+  {
+    "channel_name": "Vishal & Shekhar",
+    "streaming_link": "https://nl4.mystreaming.net/uber/bollywoodvishalandshekhar/icecast.audio",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Vishal_&_Shekhar.jpg"
+  },
+  {
+    "channel_name": "Pritam",
+    "streaming_link": "https://nl4.mystreaming.net/uber/bollywoodpritam/icecast.audio",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Pritam.jpg"
+  },
+  {
+    "channel_name": "Shah Rukh Khan",
+    "streaming_link": "https://nl4.mystreaming.net/uber/bollywoodshahrukhkhan/icecast.audio",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Shah_Rukh_Khan.jpg"
+  },
+  {
+    "channel_name": "Badshah",
+    "streaming_link": "https://nl4.mystreaming.net/uber/bollywoodbadshah/icecast.audio",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Badshah.jpg"
+  },
+  {
+    "channel_name": "Honey Singh",
+    "streaming_link": "https://nl4.mystreaming.net/uber/bollywoodyoyohoneysingh/icecast.audio",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Honey_Singh.jpg"
+  },
+  {
+    "channel_name": "Armaan Malik",
+    "streaming_link": "https://2.mystreaming.net/uber/bollywoodarmaanmalik/icecast.audio",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Armaan_Malik.jpg"
+  },
+  {
+    "channel_name": "Amit Trivedi",
+    "streaming_link": "https://nl4.mystreaming.net/uber/bollywoodamittrivedi/icecast.audio",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Amit_Trivedi.jpg"
+  },
+  {
+    "channel_name": "Neha Kakkar",
+    "streaming_link": "https://nl4.mystreaming.net/uber/bollywoodneharkakkar/icecast.audio",
+    "category": "Artists",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Neha_Kakkar.jpg"
+  },
+  {
+    "channel_name": "Quran Radio Bangla",
+    "streaming_link": "https://stream-179.zeno.fm/1z49becwn18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxejQ5YmVjd24xOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjRoc3RRLTFNUmF5WnR3VlMwWm9WY3ciLCJpYXQiOjE3NjMyMjU3NjUsImV4cCI6MTc2MzIyNTgyNX0.q2DuchgPX_BeLm1iAAiJKGf1YLyIEt6IYRce9IejJD8",
+    "category": "Muslim",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Quran_Radio_Bangla.jpg"
+  },
+  {
+    "channel_name": "Radio Jaras Islam",
+    "streaming_link": "https://s5.voscast.com:9799/stream",
+    "category": "Muslim",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Jaras_Islam.jpg"
+  },
+  {
+    "channel_name": "Radio Islam Urdu",
+    "streaming_link": "https://stream-176.zeno.fm/2xuac28zpp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyeHVhYzI4enBwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkFvN0ltRFZKUkhXTGRIcThNdTRQSWciLCJpYXQiOjE3NjMyMjYxNjMsImV4cCI6MTc2MzIyNjIyM30.XZkzcdJNYe5n3H1PTUuUTkYNhP1-pa9fWIlDkZoJxfs",
+    "category": "Muslim",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Islam_Urdu.jpg"
+  },
+  {
+    "channel_name": "Naat Sharif",
+    "streaming_link": "https://stream-175.zeno.fm/1w32c4ypzd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxdzMyYzR5cHpkMHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkdjMXYxMXZKUk82WENvMHItTnhqaHciLCJpYXQiOjE3NjMyMjYzNTYsImV4cCI6MTc2MzIyNjQxNn0.248Am4BC63WPPtnNUZ4FBOaFOqeRNcXH5UcPvUhh4JY",
+    "category": "Muslim",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Naat_Sharif.jpg"
+  },
+  {
+    "channel_name": "Hanuman Radio",
+    "streaming_link": "https://2bhanuman.out.airtime.pro:8000/2bhanuman_a",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Hanuman_Radio.jpg"
+  },
+  {
+    "channel_name": "Sai Baba Radio",
+    "streaming_link": "https://radio2bindia.out.airtime.pro/radio2bindia_a?_ga=2.203455766.763289185.1662805693-499518273.1568730566",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Sai_Baba_Radio.jpg"
+  }
+
+]
