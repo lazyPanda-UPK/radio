@@ -3160,5 +3160,42 @@
     "streaming_link": "https://nl4.mystreaming.net/uber/bollywoodneharkakkar/icecast.audio",
     "category": "Artists",
     "image_url": "https://lazypanda-upk.github.io/radio/Images/Neha_Kakkar.jpg"
+  },
+  {
+    "channel_name": "Quran Radio Bangla",
+    "streaming_link": "https://stream-179.zeno.fm/1z49becwn18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxejQ5YmVjd24xOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjRoc3RRLTFNUmF5WnR3VlMwWm9WY3ciLCJpYXQiOjE3NjMyMjU3NjUsImV4cCI6MTc2MzIyNTgyNX0.q2DuchgPX_BeLm1iAAiJKGf1YLyIEt6IYRce9IejJD8",
+    "category": "Muslim",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Quran_Radio_Bangla.jpg"
+  },
+  {
+    "channel_name": "Radio Jaras Islam",
+    "streaming_link": "https://s5.voscast.com:9799/stream",
+    "category": "Muslim",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Jaras_Islam.jpg"
+  },
+  {
+    "channel_name": "Radio Islam Urdu",
+    "streaming_link": "https://stream-176.zeno.fm/2xuac28zpp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyeHVhYzI4enBwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkFvN0ltRFZKUkhXTGRIcThNdTRQSWciLCJpYXQiOjE3NjMyMjYxNjMsImV4cCI6MTc2MzIyNjIyM30.XZkzcdJNYe5n3H1PTUuUTkYNhP1-pa9fWIlDkZoJxfs",
+    "category": "Muslim",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Radio_Islam_Urdu.jpg"
+  },
+  {
+    "channel_name": "Naat Sharif",
+    "streaming_link": "https://stream-175.zeno.fm/1w32c4ypzd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxdzMyYzR5cHpkMHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkdjMXYxMXZKUk82WENvMHItTnhqaHciLCJpYXQiOjE3NjMyMjYzNTYsImV4cCI6MTc2MzIyNjQxNn0.248Am4BC63WPPtnNUZ4FBOaFOqeRNcXH5UcPvUhh4JY",
+    "category": "Muslim",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Naat_Sharif.jpg"
+  },
+  {
+    "channel_name": "Hanuman Radio",
+    "streaming_link": "https://2bhanuman.out.airtime.pro:8000/2bhanuman_a",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Hanuman_Radio.jpg"
+  },
+  {
+    "channel_name": "Sai Baba Radio",
+    "streaming_link": "https://radio2bindia.out.airtime.pro/radio2bindia_a?_ga=2.203455766.763289185.1662805693-499518273.1568730566",
+    "category": "Hindu",
+    "image_url": "https://lazypanda-upk.github.io/radio/Images/Sai_Baba_Radio.jpg"
   }
+
 ]
