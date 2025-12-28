@@ -630,12 +630,6 @@
     "image_url": "https://lazypanda-upk.github.io/radio/malayalam/Images/Radio_Ayyappa.jpg"
   },
   {
-    "channel_name": "Bhakthi Radio",
-    "streaming_link": "https://stream.zeno.fm/08e1vkshcc9uv",
-    "category": "Hindu",
-    "image_url": "https://lazypanda-upk.github.io/radio/malayalam/Images/Bhakthi_Radio.jpg"
-  },
-  {
     "channel_name": "N Devotional",
     "streaming_link": "https://stream.zeno.fm/wbtn4zwb998uv",
     "category": "Hindu",
@@ -1505,4 +1499,5 @@
     "category": "Artist",
     "image_url": "https://lazypanda-upk.github.io/radio/malayalam/Images/KS_Chitra_radio.jpg"
   }
+
 ]
